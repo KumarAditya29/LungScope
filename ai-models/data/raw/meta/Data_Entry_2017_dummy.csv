@@ -1,0 +1,1001 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y]
+dummy_image_00000.png,Atelectasis|Pneumonia|Mass,0,P00000,68,F,AP,2893,1066,0.143,0.143
+dummy_image_00001.png,Hernia|Edema|Fibrosis,0,P00001,41,F,AP,2344,1587,0.143,0.143
+dummy_image_00002.png,Nodule,0,P00002,61,F,AP,2225,1763,0.143,0.143
+dummy_image_00003.png,No Finding,0,P00003,24,M,AP,1933,1550,0.143,0.143
+dummy_image_00004.png,Effusion|Consolidation|Mass,0,P00004,54,F,PA,2384,2510,0.143,0.143
+dummy_image_00005.png,Emphysema|Pleural_Thickening,0,P00005,56,M,PA,2867,2434,0.143,0.143
+dummy_image_00006.png,Hernia|Pleural_Thickening,0,P00006,74,M,AP,1640,2148,0.143,0.143
+dummy_image_00007.png,Emphysema|Mass|Hernia,0,P00007,43,F,AP,2690,1832,0.143,0.143
+dummy_image_00008.png,Consolidation,0,P00008,65,M,AP,1560,2174,0.143,0.143
+dummy_image_00009.png,No Finding,0,P00009,85,F,PA,1216,1579,0.143,0.143
+dummy_image_00010.png,Fibrosis,0,P00010,46,F,AP,1781,1681,0.143,0.143
+dummy_image_00011.png,Effusion,0,P00011,49,F,AP,2900,2696,0.143,0.143
+dummy_image_00012.png,Atelectasis|Pleural_Thickening|Hernia,0,P00012,40,F,PA,1923,2078,0.143,0.143
+dummy_image_00013.png,Pneumothorax,0,P00013,89,F,AP,1750,1365,0.143,0.143
+dummy_image_00014.png,Cardiomegaly|Pneumonia,0,P00014,21,F,PA,2509,2973,0.143,0.143
+dummy_image_00015.png,No Finding,0,P00015,29,M,AP,1938,1136,0.143,0.143
+dummy_image_00016.png,Mass|Emphysema,0,P00016,33,F,PA,2424,1315,0.143,0.143
+dummy_image_00017.png,Fibrosis|Nodule|Pleural_Thickening,0,P00017,87,M,AP,2209,1548,0.143,0.143
+dummy_image_00018.png,Hernia|Consolidation,0,P00018,48,M,AP,2467,2650,0.143,0.143
+dummy_image_00019.png,Pneumonia,0,P00019,88,F,AP,2386,1528,0.143,0.143
+dummy_image_00020.png,No Finding,0,P00020,29,M,AP,1472,2563,0.143,0.143
+dummy_image_00021.png,Edema|Pneumothorax|Pneumonia,0,P00021,73,M,PA,2454,2725,0.143,0.143
+dummy_image_00022.png,No Finding,0,P00022,23,F,PA,1427,1951,0.143,0.143
+dummy_image_00023.png,No Finding,0,P00023,78,F,PA,2235,2104,0.143,0.143
+dummy_image_00024.png,Cardiomegaly|Consolidation|Mass,0,P00024,61,F,PA,1489,2299,0.143,0.143
+dummy_image_00025.png,Fibrosis|Pneumothorax,0,P00025,74,F,AP,1619,2519,0.143,0.143
+dummy_image_00026.png,Fibrosis|Emphysema,0,P00026,69,M,AP,2474,2131,0.143,0.143
+dummy_image_00027.png,Nodule|Mass|Pleural_Thickening,0,P00027,82,F,AP,1910,2198,0.143,0.143
+dummy_image_00028.png,No Finding,0,P00028,76,F,PA,2242,2205,0.143,0.143
+dummy_image_00029.png,Nodule|Edema,0,P00029,26,M,PA,1228,1507,0.143,0.143
+dummy_image_00030.png,Pleural_Thickening,0,P00030,64,M,PA,1972,1481,0.143,0.143
+dummy_image_00031.png,No Finding,0,P00031,81,F,AP,2928,1349,0.143,0.143
+dummy_image_00032.png,Infiltration,0,P00032,34,M,PA,2234,2783,0.143,0.143
+dummy_image_00033.png,Hernia|Mass,0,P00033,24,M,PA,1168,1060,0.143,0.143
+dummy_image_00034.png,Hernia,0,P00034,35,F,PA,2925,2437,0.143,0.143
+dummy_image_00035.png,Emphysema|Fibrosis|Hernia,0,P00035,70,F,AP,2147,2181,0.143,0.143
+dummy_image_00036.png,No Finding,0,P00036,29,F,PA,2955,2353,0.143,0.143
+dummy_image_00037.png,Emphysema|Cardiomegaly,0,P00037,86,F,AP,1179,1218,0.143,0.143
+dummy_image_00038.png,No Finding,0,P00038,48,F,PA,1137,2412,0.143,0.143
+dummy_image_00039.png,Mass,0,P00039,46,F,PA,1272,1865,0.143,0.143
+dummy_image_00040.png,No Finding,0,P00040,72,M,AP,2676,2396,0.143,0.143
+dummy_image_00041.png,No Finding,0,P00041,44,M,PA,2739,1359,0.143,0.143
+dummy_image_00042.png,No Finding,0,P00042,21,F,AP,1076,1232,0.143,0.143
+dummy_image_00043.png,Pleural_Thickening|Hernia|Infiltration,0,P00043,34,F,PA,1503,1630,0.143,0.143
+dummy_image_00044.png,Consolidation|Emphysema,0,P00044,76,M,AP,2631,2518,0.143,0.143
+dummy_image_00045.png,Nodule,0,P00045,39,F,PA,2184,1220,0.143,0.143
+dummy_image_00046.png,No Finding,0,P00046,48,F,AP,2973,2778,0.143,0.143
+dummy_image_00047.png,Consolidation,0,P00047,23,F,AP,2517,1722,0.143,0.143
+dummy_image_00048.png,Emphysema,0,P00048,83,F,AP,1767,2502,0.143,0.143
+dummy_image_00049.png,No Finding,0,P00049,71,F,PA,2255,1947,0.143,0.143
+dummy_image_00050.png,Effusion,0,P00050,87,F,AP,1947,1390,0.143,0.143
+dummy_image_00051.png,Cardiomegaly|Pneumothorax,0,P00051,61,M,PA,1655,1831,0.143,0.143
+dummy_image_00052.png,Effusion,0,P00052,86,M,PA,1251,1605,0.143,0.143
+dummy_image_00053.png,No Finding,0,P00053,26,F,PA,1524,2647,0.143,0.143
+dummy_image_00054.png,No Finding,0,P00054,28,M,PA,2378,1989,0.143,0.143
+dummy_image_00055.png,No Finding,0,P00055,77,F,AP,1819,2373,0.143,0.143
+dummy_image_00056.png,No Finding,0,P00056,27,F,PA,1585,2231,0.143,0.143
+dummy_image_00057.png,Effusion,0,P00057,54,F,AP,1991,1317,0.143,0.143
+dummy_image_00058.png,Mass,0,P00058,20,M,PA,2819,2268,0.143,0.143
+dummy_image_00059.png,Edema,0,P00059,64,M,AP,2322,1209,0.143,0.143
+dummy_image_00060.png,No Finding,0,P00060,83,F,AP,2916,2468,0.143,0.143
+dummy_image_00061.png,Nodule|Mass|Consolidation,0,P00061,66,F,AP,2927,1460,0.143,0.143
+dummy_image_00062.png,Cardiomegaly|Nodule,0,P00062,80,M,PA,1397,2964,0.143,0.143
+dummy_image_00063.png,Infiltration|Edema|Nodule,0,P00063,81,F,PA,1672,2759,0.143,0.143
+dummy_image_00064.png,Effusion|Edema|Pneumothorax,0,P00064,45,F,PA,1486,1529,0.143,0.143
+dummy_image_00065.png,No Finding,0,P00065,42,F,PA,1923,2646,0.143,0.143
+dummy_image_00066.png,Effusion|Pleural_Thickening,0,P00066,30,F,AP,1365,1198,0.143,0.143
+dummy_image_00067.png,No Finding,0,P00067,63,M,AP,1375,2450,0.143,0.143
+dummy_image_00068.png,Atelectasis|Infiltration|Effusion,0,P00068,38,M,AP,1188,1973,0.143,0.143
+dummy_image_00069.png,Hernia|Consolidation|Effusion,0,P00069,76,F,AP,1389,2134,0.143,0.143
+dummy_image_00070.png,No Finding,0,P00070,43,F,AP,1916,1349,0.143,0.143
+dummy_image_00071.png,No Finding,0,P00071,41,M,PA,1337,2395,0.143,0.143
+dummy_image_00072.png,Cardiomegaly|Nodule,0,P00072,71,M,PA,2349,1321,0.143,0.143
+dummy_image_00073.png,Pneumonia,0,P00073,26,M,AP,1688,2115,0.143,0.143
+dummy_image_00074.png,Edema|Fibrosis|Mass,0,P00074,46,M,PA,1434,1634,0.143,0.143
+dummy_image_00075.png,Emphysema|Pneumonia,0,P00075,24,F,AP,2615,1187,0.143,0.143
+dummy_image_00076.png,Nodule,0,P00076,88,M,AP,1554,1408,0.143,0.143
+dummy_image_00077.png,Edema|Hernia,0,P00077,68,M,PA,1529,2408,0.143,0.143
+dummy_image_00078.png,Effusion|Consolidation,0,P00078,69,M,PA,1880,2905,0.143,0.143
+dummy_image_00079.png,No Finding,0,P00079,34,F,AP,2047,1038,0.143,0.143
+dummy_image_00080.png,No Finding,0,P00080,20,F,PA,1818,2095,0.143,0.143
+dummy_image_00081.png,Consolidation,0,P00081,32,F,AP,1784,2624,0.143,0.143
+dummy_image_00082.png,No Finding,0,P00082,39,M,PA,2627,2265,0.143,0.143
+dummy_image_00083.png,Hernia,0,P00083,74,M,AP,2109,1412,0.143,0.143
+dummy_image_00084.png,Pneumonia,0,P00084,31,F,PA,1567,2749,0.143,0.143
+dummy_image_00085.png,No Finding,0,P00085,55,F,AP,2950,1876,0.143,0.143
+dummy_image_00086.png,Emphysema|Mass,0,P00086,22,M,AP,2688,2912,0.143,0.143
+dummy_image_00087.png,Pneumothorax|Consolidation|Atelectasis,0,P00087,62,F,AP,1912,2948,0.143,0.143
+dummy_image_00088.png,No Finding,0,P00088,76,M,PA,1916,1271,0.143,0.143
+dummy_image_00089.png,No Finding,0,P00089,48,F,PA,1574,1907,0.143,0.143
+dummy_image_00090.png,No Finding,0,P00090,81,F,PA,2568,2334,0.143,0.143
+dummy_image_00091.png,Pleural_Thickening,0,P00091,77,M,PA,2051,2138,0.143,0.143
+dummy_image_00092.png,Effusion,0,P00092,66,F,PA,1519,1984,0.143,0.143
+dummy_image_00093.png,Edema|Infiltration|Pneumonia,0,P00093,53,M,PA,1150,2678,0.143,0.143
+dummy_image_00094.png,No Finding,0,P00094,67,M,PA,1769,1750,0.143,0.143
+dummy_image_00095.png,Atelectasis|Edema|Pneumonia,0,P00095,46,M,PA,2877,2925,0.143,0.143
+dummy_image_00096.png,Emphysema|Infiltration|Atelectasis,0,P00096,30,M,PA,1358,2008,0.143,0.143
+dummy_image_00097.png,No Finding,0,P00097,27,F,PA,2441,1674,0.143,0.143
+dummy_image_00098.png,No Finding,0,P00098,48,F,AP,1537,1073,0.143,0.143
+dummy_image_00099.png,Cardiomegaly|Pneumothorax|Infiltration,0,P00099,67,F,AP,1838,1696,0.143,0.143
+dummy_image_00100.png,Emphysema|Pneumothorax,0,P00100,43,M,PA,1312,1117,0.143,0.143
+dummy_image_00101.png,Emphysema|Infiltration,0,P00101,58,F,AP,1887,2502,0.143,0.143
+dummy_image_00102.png,Mass,0,P00102,67,M,PA,1205,2143,0.143,0.143
+dummy_image_00103.png,No Finding,0,P00103,49,F,AP,2395,2424,0.143,0.143
+dummy_image_00104.png,No Finding,0,P00104,66,F,PA,1585,1179,0.143,0.143
+dummy_image_00105.png,Pleural_Thickening|Fibrosis|Consolidation,0,P00105,87,F,AP,2018,1146,0.143,0.143
+dummy_image_00106.png,Infiltration|Edema|Hernia,0,P00106,31,F,PA,2357,1330,0.143,0.143
+dummy_image_00107.png,Mass|Edema|Pneumothorax,0,P00107,48,M,PA,1948,1684,0.143,0.143
+dummy_image_00108.png,Consolidation,0,P00108,24,F,AP,2754,1078,0.143,0.143
+dummy_image_00109.png,No Finding,0,P00109,83,F,AP,1802,1094,0.143,0.143
+dummy_image_00110.png,No Finding,0,P00110,67,F,AP,2686,1225,0.143,0.143
+dummy_image_00111.png,Pneumothorax|Fibrosis|Atelectasis,0,P00111,34,F,PA,1634,2096,0.143,0.143
+dummy_image_00112.png,Mass|Edema,0,P00112,78,M,PA,1787,2077,0.143,0.143
+dummy_image_00113.png,No Finding,0,P00113,89,F,PA,1291,2191,0.143,0.143
+dummy_image_00114.png,No Finding,0,P00114,27,M,PA,2019,1783,0.143,0.143
+dummy_image_00115.png,No Finding,0,P00115,55,M,AP,2987,2479,0.143,0.143
+dummy_image_00116.png,Pneumonia|Mass,0,P00116,78,M,PA,2171,2485,0.143,0.143
+dummy_image_00117.png,No Finding,0,P00117,69,M,PA,2404,2439,0.143,0.143
+dummy_image_00118.png,No Finding,0,P00118,52,M,AP,2026,2091,0.143,0.143
+dummy_image_00119.png,No Finding,0,P00119,80,M,AP,1328,2133,0.143,0.143
+dummy_image_00120.png,Consolidation|Pneumonia|Emphysema,0,P00120,81,F,PA,1237,1304,0.143,0.143
+dummy_image_00121.png,No Finding,0,P00121,66,M,AP,2793,1134,0.143,0.143
+dummy_image_00122.png,Infiltration,0,P00122,64,M,AP,2451,1427,0.143,0.143
+dummy_image_00123.png,Atelectasis,0,P00123,32,F,AP,1414,1990,0.143,0.143
+dummy_image_00124.png,No Finding,0,P00124,67,F,AP,1424,2733,0.143,0.143
+dummy_image_00125.png,No Finding,0,P00125,88,M,PA,1655,1115,0.143,0.143
+dummy_image_00126.png,Fibrosis|Cardiomegaly|Pneumothorax,0,P00126,41,M,PA,2191,1425,0.143,0.143
+dummy_image_00127.png,Fibrosis|Infiltration|Nodule,0,P00127,64,M,AP,2958,1753,0.143,0.143
+dummy_image_00128.png,Hernia|Consolidation,0,P00128,61,M,PA,1952,2061,0.143,0.143
+dummy_image_00129.png,Pleural_Thickening,0,P00129,56,M,PA,2599,2742,0.143,0.143
+dummy_image_00130.png,No Finding,0,P00130,88,M,AP,1784,2951,0.143,0.143
+dummy_image_00131.png,Hernia,0,P00131,69,F,PA,1184,1036,0.143,0.143
+dummy_image_00132.png,No Finding,0,P00132,27,M,AP,2472,2682,0.143,0.143
+dummy_image_00133.png,Atelectasis,0,P00133,38,M,PA,1909,2505,0.143,0.143
+dummy_image_00134.png,Pleural_Thickening,0,P00134,82,F,AP,2972,2089,0.143,0.143
+dummy_image_00135.png,No Finding,0,P00135,59,M,AP,1761,2193,0.143,0.143
+dummy_image_00136.png,Edema|Infiltration,0,P00136,38,F,AP,2495,1916,0.143,0.143
+dummy_image_00137.png,Mass|Atelectasis,0,P00137,58,M,PA,1759,2066,0.143,0.143
+dummy_image_00138.png,No Finding,0,P00138,58,F,PA,2681,1490,0.143,0.143
+dummy_image_00139.png,No Finding,0,P00139,50,F,AP,1589,2815,0.143,0.143
+dummy_image_00140.png,Cardiomegaly|Pleural_Thickening|Atelectasis,0,P00140,34,F,PA,1819,1934,0.143,0.143
+dummy_image_00141.png,No Finding,0,P00141,74,M,PA,2877,1238,0.143,0.143
+dummy_image_00142.png,No Finding,0,P00142,28,M,PA,1593,2726,0.143,0.143
+dummy_image_00143.png,No Finding,0,P00143,81,M,PA,1245,1550,0.143,0.143
+dummy_image_00144.png,No Finding,0,P00144,22,F,AP,2675,2628,0.143,0.143
+dummy_image_00145.png,Mass|Edema|Atelectasis,0,P00145,45,F,PA,2211,1431,0.143,0.143
+dummy_image_00146.png,Pleural_Thickening,0,P00146,53,F,AP,2070,2195,0.143,0.143
+dummy_image_00147.png,Hernia,0,P00147,48,F,AP,2270,2503,0.143,0.143
+dummy_image_00148.png,Infiltration,0,P00148,45,M,AP,1664,1997,0.143,0.143
+dummy_image_00149.png,Mass,0,P00149,71,F,AP,2439,2358,0.143,0.143
+dummy_image_00150.png,Cardiomegaly|Emphysema,0,P00150,80,F,AP,2374,1140,0.143,0.143
+dummy_image_00151.png,Consolidation,0,P00151,65,M,PA,1810,2015,0.143,0.143
+dummy_image_00152.png,Cardiomegaly|Edema|Hernia,0,P00152,81,M,AP,2908,1897,0.143,0.143
+dummy_image_00153.png,No Finding,0,P00153,87,F,PA,1938,1242,0.143,0.143
+dummy_image_00154.png,Edema|Pneumonia,0,P00154,34,F,PA,2610,2855,0.143,0.143
+dummy_image_00155.png,No Finding,0,P00155,27,M,PA,2017,2468,0.143,0.143
+dummy_image_00156.png,Edema,0,P00156,41,M,PA,1858,1299,0.143,0.143
+dummy_image_00157.png,Hernia,0,P00157,57,M,AP,2569,1197,0.143,0.143
+dummy_image_00158.png,No Finding,0,P00158,36,M,PA,2275,2267,0.143,0.143
+dummy_image_00159.png,No Finding,0,P00159,84,F,PA,1413,1635,0.143,0.143
+dummy_image_00160.png,No Finding,0,P00160,72,F,PA,2273,2852,0.143,0.143
+dummy_image_00161.png,No Finding,0,P00161,72,F,PA,1216,2089,0.143,0.143
+dummy_image_00162.png,Infiltration|Effusion|Mass,0,P00162,53,F,AP,2341,2770,0.143,0.143
+dummy_image_00163.png,No Finding,0,P00163,22,F,PA,1757,2141,0.143,0.143
+dummy_image_00164.png,Infiltration|Edema,0,P00164,52,M,PA,1391,1799,0.143,0.143
+dummy_image_00165.png,Pneumothorax,0,P00165,26,F,AP,1188,1105,0.143,0.143
+dummy_image_00166.png,No Finding,0,P00166,76,F,PA,1784,2749,0.143,0.143
+dummy_image_00167.png,Fibrosis,0,P00167,63,F,PA,1166,2680,0.143,0.143
+dummy_image_00168.png,No Finding,0,P00168,56,F,PA,1353,2321,0.143,0.143
+dummy_image_00169.png,Emphysema,0,P00169,49,F,PA,2831,1734,0.143,0.143
+dummy_image_00170.png,Cardiomegaly,0,P00170,78,M,AP,2167,1489,0.143,0.143
+dummy_image_00171.png,Emphysema,0,P00171,51,M,AP,2551,1239,0.143,0.143
+dummy_image_00172.png,Mass|Nodule|Cardiomegaly,0,P00172,38,F,PA,2702,2416,0.143,0.143
+dummy_image_00173.png,Mass|Emphysema,0,P00173,20,F,PA,2141,1686,0.143,0.143
+dummy_image_00174.png,Cardiomegaly|Nodule|Pleural_Thickening,0,P00174,21,F,PA,2721,2340,0.143,0.143
+dummy_image_00175.png,Mass|Cardiomegaly|Consolidation,0,P00175,29,F,PA,1225,1130,0.143,0.143
+dummy_image_00176.png,No Finding,0,P00176,52,M,PA,2063,2048,0.143,0.143
+dummy_image_00177.png,Consolidation|Atelectasis|Pneumothorax,0,P00177,41,M,PA,2945,1299,0.143,0.143
+dummy_image_00178.png,Fibrosis|Nodule,0,P00178,78,M,AP,2509,2889,0.143,0.143
+dummy_image_00179.png,Cardiomegaly,0,P00179,65,M,PA,1204,1299,0.143,0.143
+dummy_image_00180.png,No Finding,0,P00180,80,M,AP,1927,2852,0.143,0.143
+dummy_image_00181.png,No Finding,0,P00181,58,F,PA,2541,2880,0.143,0.143
+dummy_image_00182.png,Pneumonia|Hernia,0,P00182,31,F,AP,1817,1131,0.143,0.143
+dummy_image_00183.png,No Finding,0,P00183,70,M,AP,1961,2957,0.143,0.143
+dummy_image_00184.png,Pneumonia|Emphysema|Pleural_Thickening,0,P00184,78,M,PA,2813,1337,0.143,0.143
+dummy_image_00185.png,No Finding,0,P00185,79,M,PA,1441,2203,0.143,0.143
+dummy_image_00186.png,Mass|Pneumothorax|Cardiomegaly,0,P00186,68,F,PA,2411,1959,0.143,0.143
+dummy_image_00187.png,Pneumothorax|Mass,0,P00187,39,F,PA,2849,2689,0.143,0.143
+dummy_image_00188.png,No Finding,0,P00188,23,F,AP,1799,2524,0.143,0.143
+dummy_image_00189.png,Atelectasis|Pleural_Thickening|Consolidation,0,P00189,71,F,AP,2893,1689,0.143,0.143
+dummy_image_00190.png,Atelectasis,0,P00190,63,M,AP,1188,2727,0.143,0.143
+dummy_image_00191.png,Fibrosis,0,P00191,29,F,PA,1719,1189,0.143,0.143
+dummy_image_00192.png,No Finding,0,P00192,72,M,AP,1952,2181,0.143,0.143
+dummy_image_00193.png,Hernia|Fibrosis,0,P00193,41,F,AP,2198,1753,0.143,0.143
+dummy_image_00194.png,Hernia|Emphysema,0,P00194,89,M,AP,1861,2414,0.143,0.143
+dummy_image_00195.png,No Finding,0,P00195,47,M,AP,2124,2320,0.143,0.143
+dummy_image_00196.png,No Finding,0,P00196,80,M,AP,1962,1539,0.143,0.143
+dummy_image_00197.png,Cardiomegaly|Consolidation,0,P00197,87,M,AP,2639,2018,0.143,0.143
+dummy_image_00198.png,Pleural_Thickening|Consolidation,0,P00198,28,M,AP,1772,2903,0.143,0.143
+dummy_image_00199.png,Pneumonia,0,P00199,45,F,AP,1703,2990,0.143,0.143
+dummy_image_00200.png,Emphysema|Hernia,0,P00200,37,M,AP,2736,2277,0.143,0.143
+dummy_image_00201.png,No Finding,0,P00201,27,M,AP,1081,1653,0.143,0.143
+dummy_image_00202.png,Edema|Cardiomegaly|Hernia,0,P00202,25,M,PA,2098,1823,0.143,0.143
+dummy_image_00203.png,Effusion,0,P00203,88,F,PA,1965,2751,0.143,0.143
+dummy_image_00204.png,No Finding,0,P00204,73,F,PA,1898,1904,0.143,0.143
+dummy_image_00205.png,No Finding,0,P00205,20,M,PA,2909,2190,0.143,0.143
+dummy_image_00206.png,Emphysema|Pneumothorax|Cardiomegaly,0,P00206,29,M,AP,1745,2825,0.143,0.143
+dummy_image_00207.png,Infiltration,0,P00207,38,F,PA,1251,2467,0.143,0.143
+dummy_image_00208.png,Hernia|Emphysema,0,P00208,55,F,PA,2732,2410,0.143,0.143
+dummy_image_00209.png,No Finding,0,P00209,77,F,PA,1941,1217,0.143,0.143
+dummy_image_00210.png,Emphysema|Infiltration|Cardiomegaly,0,P00210,69,M,AP,2890,1449,0.143,0.143
+dummy_image_00211.png,No Finding,0,P00211,26,M,PA,1856,1507,0.143,0.143
+dummy_image_00212.png,Mass|Nodule,0,P00212,74,M,PA,1440,2775,0.143,0.143
+dummy_image_00213.png,Pneumothorax|Pneumonia|Mass,0,P00213,51,F,AP,2537,2401,0.143,0.143
+dummy_image_00214.png,No Finding,0,P00214,50,M,AP,2364,1268,0.143,0.143
+dummy_image_00215.png,Atelectasis,0,P00215,22,M,PA,1483,2858,0.143,0.143
+dummy_image_00216.png,Cardiomegaly,0,P00216,36,M,PA,2419,2078,0.143,0.143
+dummy_image_00217.png,No Finding,0,P00217,24,F,AP,1513,1796,0.143,0.143
+dummy_image_00218.png,Pneumonia|Edema|Cardiomegaly,0,P00218,75,M,PA,2883,1361,0.143,0.143
+dummy_image_00219.png,No Finding,0,P00219,62,F,AP,1054,1445,0.143,0.143
+dummy_image_00220.png,Emphysema|Pneumothorax,0,P00220,23,M,AP,1744,1923,0.143,0.143
+dummy_image_00221.png,No Finding,0,P00221,45,M,AP,1146,1252,0.143,0.143
+dummy_image_00222.png,No Finding,0,P00222,45,F,PA,1679,2781,0.143,0.143
+dummy_image_00223.png,Pleural_Thickening,0,P00223,27,F,PA,2750,2246,0.143,0.143
+dummy_image_00224.png,Emphysema|Consolidation,0,P00224,38,M,PA,2186,1963,0.143,0.143
+dummy_image_00225.png,Fibrosis,0,P00225,43,F,PA,2239,2766,0.143,0.143
+dummy_image_00226.png,Emphysema|Edema|Cardiomegaly,0,P00226,64,F,PA,2143,1558,0.143,0.143
+dummy_image_00227.png,Effusion|Fibrosis|Pneumothorax,0,P00227,52,M,PA,2337,1668,0.143,0.143
+dummy_image_00228.png,No Finding,0,P00228,37,M,PA,1553,1398,0.143,0.143
+dummy_image_00229.png,Hernia,0,P00229,86,F,PA,2142,2937,0.143,0.143
+dummy_image_00230.png,Pleural_Thickening|Atelectasis|Pneumothorax,0,P00230,47,F,PA,2620,2634,0.143,0.143
+dummy_image_00231.png,No Finding,0,P00231,76,F,AP,1076,1124,0.143,0.143
+dummy_image_00232.png,No Finding,0,P00232,53,M,AP,1587,2223,0.143,0.143
+dummy_image_00233.png,Hernia|Cardiomegaly,0,P00233,60,F,AP,1962,1710,0.143,0.143
+dummy_image_00234.png,Hernia,0,P00234,89,M,AP,2781,2832,0.143,0.143
+dummy_image_00235.png,No Finding,0,P00235,45,F,AP,2555,2068,0.143,0.143
+dummy_image_00236.png,Infiltration,0,P00236,28,M,PA,2071,2327,0.143,0.143
+dummy_image_00237.png,Mass|Emphysema,0,P00237,25,F,AP,2967,2374,0.143,0.143
+dummy_image_00238.png,Edema|Effusion|Hernia,0,P00238,73,F,PA,2895,2991,0.143,0.143
+dummy_image_00239.png,Emphysema,0,P00239,44,F,AP,1365,1081,0.143,0.143
+dummy_image_00240.png,Pleural_Thickening|Emphysema|Infiltration,0,P00240,85,F,PA,2036,2482,0.143,0.143
+dummy_image_00241.png,Cardiomegaly|Emphysema|Fibrosis,0,P00241,58,F,AP,2576,2632,0.143,0.143
+dummy_image_00242.png,Nodule|Hernia,0,P00242,35,F,PA,1504,2680,0.143,0.143
+dummy_image_00243.png,Pleural_Thickening|Pneumothorax|Nodule,0,P00243,85,M,PA,1814,2362,0.143,0.143
+dummy_image_00244.png,Edema|Pleural_Thickening|Consolidation,0,P00244,78,F,AP,1456,1665,0.143,0.143
+dummy_image_00245.png,Nodule,0,P00245,51,F,PA,1722,2860,0.143,0.143
+dummy_image_00246.png,Fibrosis,0,P00246,44,F,PA,2980,2000,0.143,0.143
+dummy_image_00247.png,Effusion|Pneumonia,0,P00247,61,F,PA,1344,2591,0.143,0.143
+dummy_image_00248.png,Mass,0,P00248,88,F,AP,1135,1075,0.143,0.143
+dummy_image_00249.png,No Finding,0,P00249,63,M,PA,1381,1065,0.143,0.143
+dummy_image_00250.png,No Finding,0,P00250,59,F,AP,2148,1450,0.143,0.143
+dummy_image_00251.png,Pneumonia|Emphysema,0,P00251,60,F,PA,2055,1883,0.143,0.143
+dummy_image_00252.png,Cardiomegaly|Edema|Pneumothorax,0,P00252,25,F,AP,2771,2233,0.143,0.143
+dummy_image_00253.png,Hernia,0,P00253,68,F,AP,1203,2358,0.143,0.143
+dummy_image_00254.png,No Finding,0,P00254,31,F,AP,1196,2091,0.143,0.143
+dummy_image_00255.png,Consolidation|Pneumonia,0,P00255,85,F,AP,2157,1138,0.143,0.143
+dummy_image_00256.png,Pleural_Thickening|Pneumothorax|Cardiomegaly,0,P00256,71,M,AP,1956,1464,0.143,0.143
+dummy_image_00257.png,Edema|Mass|Pneumothorax,0,P00257,39,F,PA,1576,2476,0.143,0.143
+dummy_image_00258.png,No Finding,0,P00258,76,F,PA,1978,2076,0.143,0.143
+dummy_image_00259.png,Edema|Effusion|Pleural_Thickening,0,P00259,26,F,PA,1097,2097,0.143,0.143
+dummy_image_00260.png,Emphysema|Pneumothorax,0,P00260,58,F,PA,1302,1965,0.143,0.143
+dummy_image_00261.png,No Finding,0,P00261,32,M,PA,2681,2654,0.143,0.143
+dummy_image_00262.png,No Finding,0,P00262,27,M,PA,1089,1314,0.143,0.143
+dummy_image_00263.png,Cardiomegaly|Atelectasis|Pneumonia,0,P00263,24,F,PA,1564,2300,0.143,0.143
+dummy_image_00264.png,Edema|Atelectasis,0,P00264,28,M,AP,2491,1606,0.143,0.143
+dummy_image_00265.png,No Finding,0,P00265,88,F,PA,1121,1196,0.143,0.143
+dummy_image_00266.png,Consolidation|Pleural_Thickening|Hernia,0,P00266,36,F,AP,2750,1574,0.143,0.143
+dummy_image_00267.png,Hernia|Mass|Edema,0,P00267,52,M,PA,2392,2493,0.143,0.143
+dummy_image_00268.png,No Finding,0,P00268,46,M,AP,1673,2066,0.143,0.143
+dummy_image_00269.png,No Finding,0,P00269,57,M,AP,2154,2826,0.143,0.143
+dummy_image_00270.png,No Finding,0,P00270,21,F,PA,2947,2346,0.143,0.143
+dummy_image_00271.png,No Finding,0,P00271,82,F,AP,2993,1123,0.143,0.143
+dummy_image_00272.png,Pleural_Thickening|Pneumonia,0,P00272,22,F,PA,2309,1817,0.143,0.143
+dummy_image_00273.png,No Finding,0,P00273,40,M,AP,2369,2219,0.143,0.143
+dummy_image_00274.png,Fibrosis|Pneumothorax|Infiltration,0,P00274,30,F,AP,1199,1939,0.143,0.143
+dummy_image_00275.png,No Finding,0,P00275,55,F,AP,2105,1727,0.143,0.143
+dummy_image_00276.png,No Finding,0,P00276,84,F,PA,1942,2968,0.143,0.143
+dummy_image_00277.png,No Finding,0,P00277,33,M,PA,2448,2098,0.143,0.143
+dummy_image_00278.png,Effusion|Pneumonia,0,P00278,26,M,AP,2930,1562,0.143,0.143
+dummy_image_00279.png,Pleural_Thickening,0,P00279,72,M,PA,1686,2484,0.143,0.143
+dummy_image_00280.png,Cardiomegaly,0,P00280,76,M,AP,1418,2581,0.143,0.143
+dummy_image_00281.png,No Finding,0,P00281,67,F,PA,2904,1362,0.143,0.143
+dummy_image_00282.png,Fibrosis|Pneumonia|Consolidation,0,P00282,46,F,AP,2695,2996,0.143,0.143
+dummy_image_00283.png,No Finding,0,P00283,58,F,AP,2409,1913,0.143,0.143
+dummy_image_00284.png,No Finding,0,P00284,39,F,AP,1706,1643,0.143,0.143
+dummy_image_00285.png,No Finding,0,P00285,71,F,PA,1718,1228,0.143,0.143
+dummy_image_00286.png,Atelectasis,0,P00286,42,M,PA,2537,2924,0.143,0.143
+dummy_image_00287.png,Infiltration,0,P00287,71,F,AP,1219,1029,0.143,0.143
+dummy_image_00288.png,No Finding,0,P00288,79,M,AP,2791,1370,0.143,0.143
+dummy_image_00289.png,Cardiomegaly|Hernia,0,P00289,80,M,AP,1705,1201,0.143,0.143
+dummy_image_00290.png,Pneumothorax,0,P00290,75,M,PA,2980,2660,0.143,0.143
+dummy_image_00291.png,Emphysema|Hernia,0,P00291,50,F,AP,2445,2673,0.143,0.143
+dummy_image_00292.png,No Finding,0,P00292,75,M,PA,1561,2183,0.143,0.143
+dummy_image_00293.png,Pneumothorax|Mass|Cardiomegaly,0,P00293,43,F,AP,2315,2951,0.143,0.143
+dummy_image_00294.png,Emphysema|Nodule,0,P00294,62,F,PA,1133,1371,0.143,0.143
+dummy_image_00295.png,No Finding,0,P00295,59,F,AP,2651,2935,0.143,0.143
+dummy_image_00296.png,Effusion,0,P00296,57,F,PA,2332,2958,0.143,0.143
+dummy_image_00297.png,No Finding,0,P00297,29,M,AP,1747,2070,0.143,0.143
+dummy_image_00298.png,Infiltration|Atelectasis|Fibrosis,0,P00298,38,M,PA,2773,2137,0.143,0.143
+dummy_image_00299.png,Pneumothorax|Consolidation|Atelectasis,0,P00299,68,M,AP,1609,1824,0.143,0.143
+dummy_image_00300.png,Emphysema|Atelectasis,0,P00300,29,F,AP,1570,1586,0.143,0.143
+dummy_image_00301.png,Consolidation|Edema|Pneumothorax,0,P00301,48,F,AP,1513,2025,0.143,0.143
+dummy_image_00302.png,Mass,0,P00302,30,M,AP,1513,1962,0.143,0.143
+dummy_image_00303.png,No Finding,0,P00303,40,F,AP,1943,2491,0.143,0.143
+dummy_image_00304.png,Edema|Hernia,0,P00304,54,M,PA,2925,2466,0.143,0.143
+dummy_image_00305.png,Edema,0,P00305,40,M,AP,2372,2408,0.143,0.143
+dummy_image_00306.png,Pneumonia|Nodule,0,P00306,31,M,AP,1227,1499,0.143,0.143
+dummy_image_00307.png,No Finding,0,P00307,81,M,AP,1533,2819,0.143,0.143
+dummy_image_00308.png,Pleural_Thickening|Pneumonia,0,P00308,70,F,PA,1676,2989,0.143,0.143
+dummy_image_00309.png,No Finding,0,P00309,85,F,AP,2598,1152,0.143,0.143
+dummy_image_00310.png,Mass|Effusion|Hernia,0,P00310,88,M,PA,1115,2009,0.143,0.143
+dummy_image_00311.png,No Finding,0,P00311,65,F,PA,1427,1493,0.143,0.143
+dummy_image_00312.png,Pleural_Thickening|Atelectasis,0,P00312,43,F,AP,2873,1106,0.143,0.143
+dummy_image_00313.png,Nodule,0,P00313,71,M,AP,2589,2890,0.143,0.143
+dummy_image_00314.png,Pneumothorax|Pneumonia,0,P00314,82,F,PA,2594,2209,0.143,0.143
+dummy_image_00315.png,Infiltration|Edema,0,P00315,27,F,AP,2290,1370,0.143,0.143
+dummy_image_00316.png,No Finding,0,P00316,37,M,PA,2263,1209,0.143,0.143
+dummy_image_00317.png,No Finding,0,P00317,57,F,PA,2457,2033,0.143,0.143
+dummy_image_00318.png,No Finding,0,P00318,30,F,PA,1339,2023,0.143,0.143
+dummy_image_00319.png,Pleural_Thickening,0,P00319,36,M,PA,2198,2787,0.143,0.143
+dummy_image_00320.png,Infiltration|Cardiomegaly,0,P00320,58,F,AP,2030,1137,0.143,0.143
+dummy_image_00321.png,Pneumonia|Effusion|Hernia,0,P00321,29,F,AP,2903,2567,0.143,0.143
+dummy_image_00322.png,Effusion|Nodule,0,P00322,40,M,PA,2758,1369,0.143,0.143
+dummy_image_00323.png,Consolidation,0,P00323,40,M,PA,2792,1732,0.143,0.143
+dummy_image_00324.png,Fibrosis|Mass,0,P00324,47,F,AP,2084,2394,0.143,0.143
+dummy_image_00325.png,Pneumothorax|Consolidation,0,P00325,39,F,AP,1127,1144,0.143,0.143
+dummy_image_00326.png,No Finding,0,P00326,51,F,AP,2070,1347,0.143,0.143
+dummy_image_00327.png,No Finding,0,P00327,30,M,PA,1977,2841,0.143,0.143
+dummy_image_00328.png,Infiltration|Cardiomegaly,0,P00328,46,M,AP,2067,2963,0.143,0.143
+dummy_image_00329.png,No Finding,0,P00329,31,M,AP,1096,2598,0.143,0.143
+dummy_image_00330.png,Consolidation|Atelectasis,0,P00330,63,M,PA,1177,1319,0.143,0.143
+dummy_image_00331.png,Fibrosis,0,P00331,26,M,AP,2855,1776,0.143,0.143
+dummy_image_00332.png,Hernia,0,P00332,34,M,AP,2543,1765,0.143,0.143
+dummy_image_00333.png,No Finding,0,P00333,82,M,AP,2478,1114,0.143,0.143
+dummy_image_00334.png,Pneumonia|Nodule,0,P00334,66,F,AP,2216,2178,0.143,0.143
+dummy_image_00335.png,No Finding,0,P00335,53,M,PA,2930,1417,0.143,0.143
+dummy_image_00336.png,No Finding,0,P00336,58,F,PA,2912,1424,0.143,0.143
+dummy_image_00337.png,No Finding,0,P00337,80,F,PA,2169,1418,0.143,0.143
+dummy_image_00338.png,Fibrosis,0,P00338,51,M,AP,2870,2633,0.143,0.143
+dummy_image_00339.png,Cardiomegaly,0,P00339,75,F,AP,2728,2820,0.143,0.143
+dummy_image_00340.png,Edema|Hernia|Fibrosis,0,P00340,88,F,AP,2888,2137,0.143,0.143
+dummy_image_00341.png,No Finding,0,P00341,58,F,AP,2314,2010,0.143,0.143
+dummy_image_00342.png,Edema|Atelectasis,0,P00342,85,M,AP,1740,2496,0.143,0.143
+dummy_image_00343.png,Edema|Pneumothorax|Hernia,0,P00343,41,M,PA,1543,2869,0.143,0.143
+dummy_image_00344.png,Hernia,0,P00344,31,M,PA,2117,2573,0.143,0.143
+dummy_image_00345.png,Mass,0,P00345,23,M,AP,1211,1433,0.143,0.143
+dummy_image_00346.png,Emphysema,0,P00346,65,M,AP,1643,2254,0.143,0.143
+dummy_image_00347.png,Cardiomegaly,0,P00347,48,M,AP,1868,1933,0.143,0.143
+dummy_image_00348.png,No Finding,0,P00348,49,M,PA,1587,2690,0.143,0.143
+dummy_image_00349.png,Effusion|Consolidation|Pleural_Thickening,0,P00349,25,F,PA,2190,2516,0.143,0.143
+dummy_image_00350.png,Edema,0,P00350,29,M,PA,2798,2286,0.143,0.143
+dummy_image_00351.png,Nodule|Edema|Pneumonia,0,P00351,22,F,PA,2855,2134,0.143,0.143
+dummy_image_00352.png,Edema|Infiltration|Emphysema,0,P00352,81,M,PA,1474,1532,0.143,0.143
+dummy_image_00353.png,Cardiomegaly|Atelectasis,0,P00353,70,F,AP,2458,2380,0.143,0.143
+dummy_image_00354.png,Consolidation,0,P00354,75,M,PA,2564,1154,0.143,0.143
+dummy_image_00355.png,Pleural_Thickening|Fibrosis|Nodule,0,P00355,26,F,AP,2348,2841,0.143,0.143
+dummy_image_00356.png,Pneumothorax|Pneumonia|Pleural_Thickening,0,P00356,28,F,AP,1818,2663,0.143,0.143
+dummy_image_00357.png,Edema,0,P00357,65,F,AP,2996,1213,0.143,0.143
+dummy_image_00358.png,Pneumonia,0,P00358,59,F,AP,2333,2246,0.143,0.143
+dummy_image_00359.png,Pleural_Thickening|Fibrosis|Consolidation,0,P00359,50,F,AP,2568,1059,0.143,0.143
+dummy_image_00360.png,No Finding,0,P00360,63,M,AP,1875,2877,0.143,0.143
+dummy_image_00361.png,Hernia|Pneumothorax,0,P00361,37,M,PA,2893,2778,0.143,0.143
+dummy_image_00362.png,Effusion|Emphysema,0,P00362,29,M,PA,1435,1039,0.143,0.143
+dummy_image_00363.png,Mass|Edema|Cardiomegaly,0,P00363,27,F,PA,2589,2030,0.143,0.143
+dummy_image_00364.png,No Finding,0,P00364,34,M,AP,2891,2259,0.143,0.143
+dummy_image_00365.png,Infiltration|Mass,0,P00365,81,F,PA,1475,1686,0.143,0.143
+dummy_image_00366.png,No Finding,0,P00366,44,M,PA,2906,1521,0.143,0.143
+dummy_image_00367.png,No Finding,0,P00367,23,F,AP,2258,1464,0.143,0.143
+dummy_image_00368.png,Pneumothorax,0,P00368,60,F,PA,1636,1160,0.143,0.143
+dummy_image_00369.png,Mass,0,P00369,38,M,PA,1311,1319,0.143,0.143
+dummy_image_00370.png,No Finding,0,P00370,67,F,PA,1814,2416,0.143,0.143
+dummy_image_00371.png,Effusion|Pneumothorax,0,P00371,67,F,PA,1597,2637,0.143,0.143
+dummy_image_00372.png,Nodule|Hernia,0,P00372,79,F,AP,1784,2237,0.143,0.143
+dummy_image_00373.png,No Finding,0,P00373,23,F,AP,2317,2692,0.143,0.143
+dummy_image_00374.png,Consolidation,0,P00374,72,F,AP,1843,1347,0.143,0.143
+dummy_image_00375.png,No Finding,0,P00375,49,M,PA,2634,2657,0.143,0.143
+dummy_image_00376.png,Pleural_Thickening|Fibrosis|Edema,0,P00376,27,F,PA,1728,2622,0.143,0.143
+dummy_image_00377.png,Hernia,0,P00377,30,M,AP,2184,2830,0.143,0.143
+dummy_image_00378.png,Edema|Emphysema|Pneumothorax,0,P00378,68,F,PA,2883,1308,0.143,0.143
+dummy_image_00379.png,Pneumothorax|Nodule,0,P00379,61,F,AP,1540,2371,0.143,0.143
+dummy_image_00380.png,No Finding,0,P00380,78,M,AP,2579,2888,0.143,0.143
+dummy_image_00381.png,Edema,0,P00381,66,M,PA,1975,2483,0.143,0.143
+dummy_image_00382.png,Pneumothorax|Infiltration|Edema,0,P00382,89,F,AP,1752,1157,0.143,0.143
+dummy_image_00383.png,Fibrosis,0,P00383,26,F,AP,1456,2071,0.143,0.143
+dummy_image_00384.png,No Finding,0,P00384,28,F,AP,1366,2980,0.143,0.143
+dummy_image_00385.png,No Finding,0,P00385,71,F,AP,2382,2264,0.143,0.143
+dummy_image_00386.png,Effusion|Infiltration|Fibrosis,0,P00386,75,M,PA,1469,1620,0.143,0.143
+dummy_image_00387.png,No Finding,0,P00387,52,F,AP,2874,2079,0.143,0.143
+dummy_image_00388.png,Edema|Pneumonia|Atelectasis,0,P00388,52,F,PA,1226,2055,0.143,0.143
+dummy_image_00389.png,Hernia|Pleural_Thickening|Edema,0,P00389,55,M,PA,1967,1988,0.143,0.143
+dummy_image_00390.png,Pneumothorax|Edema,0,P00390,89,M,AP,2763,2429,0.143,0.143
+dummy_image_00391.png,No Finding,0,P00391,37,M,PA,1905,1182,0.143,0.143
+dummy_image_00392.png,Mass,0,P00392,22,M,PA,2744,2861,0.143,0.143
+dummy_image_00393.png,Infiltration|Atelectasis,0,P00393,88,F,PA,1960,1065,0.143,0.143
+dummy_image_00394.png,No Finding,0,P00394,59,M,PA,2533,2374,0.143,0.143
+dummy_image_00395.png,Edema|Pneumothorax|Effusion,0,P00395,41,M,PA,1904,1300,0.143,0.143
+dummy_image_00396.png,No Finding,0,P00396,67,M,AP,1074,2355,0.143,0.143
+dummy_image_00397.png,No Finding,0,P00397,20,M,PA,2483,2160,0.143,0.143
+dummy_image_00398.png,No Finding,0,P00398,46,M,AP,2449,1373,0.143,0.143
+dummy_image_00399.png,No Finding,0,P00399,22,F,AP,1321,1048,0.143,0.143
+dummy_image_00400.png,Atelectasis|Pneumonia|Effusion,0,P00400,55,F,AP,2413,2950,0.143,0.143
+dummy_image_00401.png,No Finding,0,P00401,25,M,AP,1763,1331,0.143,0.143
+dummy_image_00402.png,No Finding,0,P00402,71,M,PA,1100,1425,0.143,0.143
+dummy_image_00403.png,Nodule|Edema|Emphysema,0,P00403,68,F,PA,1441,1925,0.143,0.143
+dummy_image_00404.png,No Finding,0,P00404,63,M,PA,1349,1255,0.143,0.143
+dummy_image_00405.png,Pneumonia,0,P00405,83,M,AP,1286,2054,0.143,0.143
+dummy_image_00406.png,No Finding,0,P00406,64,M,AP,1613,1405,0.143,0.143
+dummy_image_00407.png,Cardiomegaly|Effusion,0,P00407,34,M,AP,1613,2396,0.143,0.143
+dummy_image_00408.png,Consolidation|Pneumothorax,0,P00408,36,M,PA,1251,1563,0.143,0.143
+dummy_image_00409.png,Mass,0,P00409,38,M,PA,1623,1707,0.143,0.143
+dummy_image_00410.png,Emphysema,0,P00410,48,F,PA,1177,2053,0.143,0.143
+dummy_image_00411.png,Nodule,0,P00411,38,F,PA,2020,2504,0.143,0.143
+dummy_image_00412.png,No Finding,0,P00412,52,F,AP,2265,2441,0.143,0.143
+dummy_image_00413.png,No Finding,0,P00413,87,M,PA,2151,2244,0.143,0.143
+dummy_image_00414.png,Fibrosis|Mass,0,P00414,86,F,AP,1728,2543,0.143,0.143
+dummy_image_00415.png,Cardiomegaly|Atelectasis|Mass,0,P00415,27,F,PA,2805,2219,0.143,0.143
+dummy_image_00416.png,No Finding,0,P00416,83,F,AP,1738,2391,0.143,0.143
+dummy_image_00417.png,Nodule|Cardiomegaly,0,P00417,84,M,PA,2683,1876,0.143,0.143
+dummy_image_00418.png,Emphysema,0,P00418,31,M,AP,1247,2944,0.143,0.143
+dummy_image_00419.png,Fibrosis|Pneumothorax|Cardiomegaly,0,P00419,39,F,PA,2254,2044,0.143,0.143
+dummy_image_00420.png,Cardiomegaly|Hernia|Pleural_Thickening,0,P00420,27,M,AP,1049,1242,0.143,0.143
+dummy_image_00421.png,Consolidation|Hernia,0,P00421,30,F,AP,2924,2849,0.143,0.143
+dummy_image_00422.png,Emphysema,0,P00422,70,F,PA,2143,2723,0.143,0.143
+dummy_image_00423.png,Consolidation,0,P00423,58,F,PA,1054,2510,0.143,0.143
+dummy_image_00424.png,Fibrosis|Hernia|Consolidation,0,P00424,86,M,PA,1181,2996,0.143,0.143
+dummy_image_00425.png,Atelectasis,0,P00425,66,F,AP,1901,1512,0.143,0.143
+dummy_image_00426.png,Nodule|Hernia,0,P00426,38,M,PA,1919,2642,0.143,0.143
+dummy_image_00427.png,Emphysema,0,P00427,87,F,AP,2623,2490,0.143,0.143
+dummy_image_00428.png,Nodule|Mass,0,P00428,48,F,PA,2733,2688,0.143,0.143
+dummy_image_00429.png,No Finding,0,P00429,87,F,AP,2416,2196,0.143,0.143
+dummy_image_00430.png,Hernia|Pleural_Thickening|Pneumonia,0,P00430,66,M,PA,1563,2863,0.143,0.143
+dummy_image_00431.png,Emphysema,0,P00431,27,F,PA,2699,2984,0.143,0.143
+dummy_image_00432.png,Atelectasis,0,P00432,63,F,PA,2550,2708,0.143,0.143
+dummy_image_00433.png,Hernia|Edema,0,P00433,28,F,PA,1236,2829,0.143,0.143
+dummy_image_00434.png,Cardiomegaly,0,P00434,72,F,AP,1347,2117,0.143,0.143
+dummy_image_00435.png,Infiltration|Pleural_Thickening,0,P00435,44,F,AP,1429,1151,0.143,0.143
+dummy_image_00436.png,Pleural_Thickening|Atelectasis,0,P00436,76,M,AP,2594,1509,0.143,0.143
+dummy_image_00437.png,Consolidation|Effusion|Pneumonia,0,P00437,48,F,AP,1366,1349,0.143,0.143
+dummy_image_00438.png,Emphysema,0,P00438,63,F,PA,2992,2603,0.143,0.143
+dummy_image_00439.png,Mass|Fibrosis|Edema,0,P00439,55,M,PA,1737,1750,0.143,0.143
+dummy_image_00440.png,No Finding,0,P00440,57,F,AP,1222,1387,0.143,0.143
+dummy_image_00441.png,Fibrosis,0,P00441,66,M,PA,2035,1638,0.143,0.143
+dummy_image_00442.png,Pleural_Thickening|Mass,0,P00442,59,F,PA,2754,2338,0.143,0.143
+dummy_image_00443.png,Pneumonia|Hernia,0,P00443,68,F,PA,1587,2775,0.143,0.143
+dummy_image_00444.png,Nodule,0,P00444,55,M,PA,2647,1044,0.143,0.143
+dummy_image_00445.png,No Finding,0,P00445,89,F,PA,1181,2651,0.143,0.143
+dummy_image_00446.png,No Finding,0,P00446,44,M,PA,2841,1775,0.143,0.143
+dummy_image_00447.png,Fibrosis|Cardiomegaly|Effusion,0,P00447,77,F,PA,1553,2654,0.143,0.143
+dummy_image_00448.png,Hernia|Fibrosis|Atelectasis,0,P00448,81,F,PA,1403,2629,0.143,0.143
+dummy_image_00449.png,No Finding,0,P00449,73,F,AP,1485,2709,0.143,0.143
+dummy_image_00450.png,No Finding,0,P00450,50,M,PA,1039,2438,0.143,0.143
+dummy_image_00451.png,Pneumothorax|Effusion,0,P00451,53,M,AP,1077,2691,0.143,0.143
+dummy_image_00452.png,No Finding,0,P00452,88,M,PA,2982,2214,0.143,0.143
+dummy_image_00453.png,No Finding,0,P00453,23,F,PA,2158,2217,0.143,0.143
+dummy_image_00454.png,Consolidation|Emphysema,0,P00454,71,F,PA,2259,2335,0.143,0.143
+dummy_image_00455.png,Cardiomegaly,0,P00455,41,F,AP,1817,2583,0.143,0.143
+dummy_image_00456.png,No Finding,0,P00456,33,F,PA,2320,1913,0.143,0.143
+dummy_image_00457.png,Consolidation,0,P00457,73,F,AP,1844,1559,0.143,0.143
+dummy_image_00458.png,No Finding,0,P00458,26,F,PA,1582,1900,0.143,0.143
+dummy_image_00459.png,No Finding,0,P00459,25,F,PA,1803,1343,0.143,0.143
+dummy_image_00460.png,Pleural_Thickening,0,P00460,29,F,AP,2455,2690,0.143,0.143
+dummy_image_00461.png,Emphysema,0,P00461,28,M,AP,2111,2190,0.143,0.143
+dummy_image_00462.png,Effusion|Atelectasis,0,P00462,58,M,PA,2813,1690,0.143,0.143
+dummy_image_00463.png,No Finding,0,P00463,53,F,PA,1028,1532,0.143,0.143
+dummy_image_00464.png,Infiltration,0,P00464,79,M,PA,2908,1909,0.143,0.143
+dummy_image_00465.png,No Finding,0,P00465,36,F,AP,1193,1715,0.143,0.143
+dummy_image_00466.png,No Finding,0,P00466,34,F,PA,2574,2571,0.143,0.143
+dummy_image_00467.png,No Finding,0,P00467,66,M,PA,2419,2343,0.143,0.143
+dummy_image_00468.png,No Finding,0,P00468,39,M,AP,1578,2629,0.143,0.143
+dummy_image_00469.png,No Finding,0,P00469,27,F,PA,2057,1979,0.143,0.143
+dummy_image_00470.png,Emphysema|Hernia|Edema,0,P00470,69,F,PA,1458,1963,0.143,0.143
+dummy_image_00471.png,Consolidation|Mass,0,P00471,54,M,PA,2320,2676,0.143,0.143
+dummy_image_00472.png,No Finding,0,P00472,46,F,PA,1843,2723,0.143,0.143
+dummy_image_00473.png,Infiltration,0,P00473,72,M,PA,1088,2809,0.143,0.143
+dummy_image_00474.png,Mass|Emphysema|Fibrosis,0,P00474,88,F,AP,1181,2971,0.143,0.143
+dummy_image_00475.png,No Finding,0,P00475,42,M,PA,2023,1637,0.143,0.143
+dummy_image_00476.png,Infiltration|Consolidation,0,P00476,34,F,AP,1312,1099,0.143,0.143
+dummy_image_00477.png,Pneumonia|Infiltration|Emphysema,0,P00477,22,F,AP,2689,2628,0.143,0.143
+dummy_image_00478.png,Emphysema,0,P00478,38,F,AP,1346,1861,0.143,0.143
+dummy_image_00479.png,Edema|Fibrosis|Hernia,0,P00479,73,M,PA,1048,2739,0.143,0.143
+dummy_image_00480.png,Fibrosis|Emphysema,0,P00480,73,M,AP,2297,2036,0.143,0.143
+dummy_image_00481.png,Effusion,0,P00481,69,F,AP,1960,2391,0.143,0.143
+dummy_image_00482.png,Atelectasis|Effusion|Pneumothorax,0,P00482,46,M,PA,2396,1328,0.143,0.143
+dummy_image_00483.png,Consolidation,0,P00483,75,M,AP,2171,2600,0.143,0.143
+dummy_image_00484.png,Pneumonia|Pleural_Thickening,0,P00484,69,M,PA,2305,1656,0.143,0.143
+dummy_image_00485.png,Infiltration,0,P00485,74,M,AP,2782,1911,0.143,0.143
+dummy_image_00486.png,Emphysema|Hernia,0,P00486,56,M,PA,2319,2598,0.143,0.143
+dummy_image_00487.png,No Finding,0,P00487,80,M,AP,1971,1922,0.143,0.143
+dummy_image_00488.png,Pneumothorax|Emphysema|Mass,0,P00488,71,F,PA,2514,1614,0.143,0.143
+dummy_image_00489.png,Pneumothorax,0,P00489,27,M,PA,2965,2677,0.143,0.143
+dummy_image_00490.png,No Finding,0,P00490,82,M,AP,1700,1141,0.143,0.143
+dummy_image_00491.png,Effusion|Pleural_Thickening,0,P00491,61,F,PA,1886,2061,0.143,0.143
+dummy_image_00492.png,No Finding,0,P00492,47,F,PA,1109,1358,0.143,0.143
+dummy_image_00493.png,No Finding,0,P00493,32,F,AP,1987,2642,0.143,0.143
+dummy_image_00494.png,No Finding,0,P00494,79,M,AP,1686,1937,0.143,0.143
+dummy_image_00495.png,Pneumonia|Consolidation,0,P00495,39,M,PA,1799,1202,0.143,0.143
+dummy_image_00496.png,No Finding,0,P00496,44,F,PA,1922,1053,0.143,0.143
+dummy_image_00497.png,No Finding,0,P00497,33,F,AP,1651,2233,0.143,0.143
+dummy_image_00498.png,Pneumonia|Hernia|Pneumothorax,0,P00498,41,M,AP,1821,1584,0.143,0.143
+dummy_image_00499.png,No Finding,0,P00499,60,F,AP,2466,1076,0.143,0.143
+dummy_image_00500.png,Effusion,0,P00500,41,M,PA,1826,2381,0.143,0.143
+dummy_image_00501.png,Cardiomegaly|Infiltration,0,P00501,80,M,PA,1329,2654,0.143,0.143
+dummy_image_00502.png,No Finding,0,P00502,74,F,PA,1259,2665,0.143,0.143
+dummy_image_00503.png,Atelectasis|Pneumothorax|Infiltration,0,P00503,29,M,AP,1878,2610,0.143,0.143
+dummy_image_00504.png,Nodule|Effusion|Atelectasis,0,P00504,82,F,PA,1756,1768,0.143,0.143
+dummy_image_00505.png,No Finding,0,P00505,79,F,PA,1330,1425,0.143,0.143
+dummy_image_00506.png,No Finding,0,P00506,49,F,AP,2605,2723,0.143,0.143
+dummy_image_00507.png,No Finding,0,P00507,81,M,PA,2461,1961,0.143,0.143
+dummy_image_00508.png,Pneumothorax|Cardiomegaly|Edema,0,P00508,64,F,AP,1072,1373,0.143,0.143
+dummy_image_00509.png,Hernia|Effusion|Cardiomegaly,0,P00509,20,M,AP,1124,1407,0.143,0.143
+dummy_image_00510.png,Atelectasis|Fibrosis,0,P00510,85,F,PA,1874,1745,0.143,0.143
+dummy_image_00511.png,No Finding,0,P00511,64,F,PA,1797,1053,0.143,0.143
+dummy_image_00512.png,Nodule,0,P00512,41,F,AP,2620,1062,0.143,0.143
+dummy_image_00513.png,Emphysema,0,P00513,81,M,AP,1696,1611,0.143,0.143
+dummy_image_00514.png,No Finding,0,P00514,24,F,PA,2089,2386,0.143,0.143
+dummy_image_00515.png,No Finding,0,P00515,56,M,PA,1292,2140,0.143,0.143
+dummy_image_00516.png,No Finding,0,P00516,44,F,AP,1340,2348,0.143,0.143
+dummy_image_00517.png,Pneumothorax|Consolidation,0,P00517,54,F,AP,2314,2160,0.143,0.143
+dummy_image_00518.png,Hernia,0,P00518,51,M,AP,1191,1247,0.143,0.143
+dummy_image_00519.png,Pneumonia|Cardiomegaly|Emphysema,0,P00519,28,M,AP,2984,1443,0.143,0.143
+dummy_image_00520.png,Pleural_Thickening|Edema|Effusion,0,P00520,86,M,PA,1191,1780,0.143,0.143
+dummy_image_00521.png,Atelectasis|Edema|Effusion,0,P00521,42,M,PA,2791,1134,0.143,0.143
+dummy_image_00522.png,Nodule|Mass|Emphysema,0,P00522,22,F,AP,1596,1216,0.143,0.143
+dummy_image_00523.png,No Finding,0,P00523,80,F,PA,2910,1048,0.143,0.143
+dummy_image_00524.png,Atelectasis|Mass|Cardiomegaly,0,P00524,27,F,PA,2848,1383,0.143,0.143
+dummy_image_00525.png,No Finding,0,P00525,60,M,PA,2684,1323,0.143,0.143
+dummy_image_00526.png,Mass|Emphysema,0,P00526,59,F,AP,2878,1485,0.143,0.143
+dummy_image_00527.png,No Finding,0,P00527,41,M,AP,1625,2160,0.143,0.143
+dummy_image_00528.png,No Finding,0,P00528,38,F,AP,1106,2432,0.143,0.143
+dummy_image_00529.png,Infiltration|Emphysema|Effusion,0,P00529,76,M,AP,2610,2562,0.143,0.143
+dummy_image_00530.png,Effusion|Edema,0,P00530,61,F,AP,1472,1767,0.143,0.143
+dummy_image_00531.png,Effusion|Nodule,0,P00531,65,M,AP,2635,1996,0.143,0.143
+dummy_image_00532.png,No Finding,0,P00532,35,F,PA,1337,2732,0.143,0.143
+dummy_image_00533.png,Hernia|Nodule,0,P00533,56,F,PA,2525,2187,0.143,0.143
+dummy_image_00534.png,Hernia|Infiltration|Effusion,0,P00534,72,M,AP,1956,2993,0.143,0.143
+dummy_image_00535.png,Atelectasis,0,P00535,78,M,AP,2933,1067,0.143,0.143
+dummy_image_00536.png,No Finding,0,P00536,22,M,PA,1582,1296,0.143,0.143
+dummy_image_00537.png,Pneumonia|Mass|Cardiomegaly,0,P00537,77,M,PA,1212,1974,0.143,0.143
+dummy_image_00538.png,Hernia,0,P00538,44,F,PA,1083,1738,0.143,0.143
+dummy_image_00539.png,Infiltration|Fibrosis,0,P00539,28,M,PA,1087,1773,0.143,0.143
+dummy_image_00540.png,Pneumonia|Nodule|Pneumothorax,0,P00540,84,M,AP,2691,1473,0.143,0.143
+dummy_image_00541.png,No Finding,0,P00541,20,F,AP,2504,2487,0.143,0.143
+dummy_image_00542.png,Emphysema|Fibrosis,0,P00542,37,M,PA,2280,1419,0.143,0.143
+dummy_image_00543.png,Nodule|Consolidation|Emphysema,0,P00543,48,M,AP,1508,1538,0.143,0.143
+dummy_image_00544.png,Edema|Pneumonia,0,P00544,27,F,PA,2406,2411,0.143,0.143
+dummy_image_00545.png,Emphysema|Pneumothorax,0,P00545,83,F,AP,2471,2628,0.143,0.143
+dummy_image_00546.png,Atelectasis,0,P00546,44,F,AP,1439,2456,0.143,0.143
+dummy_image_00547.png,Fibrosis,0,P00547,82,F,AP,2617,2200,0.143,0.143
+dummy_image_00548.png,Emphysema|Hernia,0,P00548,50,M,PA,2696,2778,0.143,0.143
+dummy_image_00549.png,No Finding,0,P00549,21,M,AP,1616,1792,0.143,0.143
+dummy_image_00550.png,Atelectasis,0,P00550,50,F,PA,1256,1655,0.143,0.143
+dummy_image_00551.png,Emphysema|Hernia,0,P00551,60,M,AP,1137,2249,0.143,0.143
+dummy_image_00552.png,Infiltration|Atelectasis,0,P00552,38,M,PA,2494,2726,0.143,0.143
+dummy_image_00553.png,No Finding,0,P00553,80,F,AP,1743,2868,0.143,0.143
+dummy_image_00554.png,Hernia|Cardiomegaly|Pleural_Thickening,0,P00554,48,M,PA,2054,1899,0.143,0.143
+dummy_image_00555.png,Infiltration|Pleural_Thickening,0,P00555,56,M,PA,2314,2697,0.143,0.143
+dummy_image_00556.png,Pneumonia,0,P00556,70,M,AP,1764,2111,0.143,0.143
+dummy_image_00557.png,Emphysema|Mass|Cardiomegaly,0,P00557,74,F,AP,1136,1536,0.143,0.143
+dummy_image_00558.png,No Finding,0,P00558,81,F,AP,1711,1408,0.143,0.143
+dummy_image_00559.png,Edema|Nodule|Hernia,0,P00559,81,M,PA,1225,1726,0.143,0.143
+dummy_image_00560.png,Hernia|Edema|Cardiomegaly,0,P00560,70,M,PA,1869,1624,0.143,0.143
+dummy_image_00561.png,Hernia,0,P00561,22,F,AP,2782,2487,0.143,0.143
+dummy_image_00562.png,Infiltration|Hernia|Atelectasis,0,P00562,21,M,PA,2787,1382,0.143,0.143
+dummy_image_00563.png,Hernia,0,P00563,32,M,PA,2006,2569,0.143,0.143
+dummy_image_00564.png,No Finding,0,P00564,42,F,AP,1818,2422,0.143,0.143
+dummy_image_00565.png,Cardiomegaly,0,P00565,67,F,AP,1211,1206,0.143,0.143
+dummy_image_00566.png,Pneumonia,0,P00566,61,M,PA,2206,2387,0.143,0.143
+dummy_image_00567.png,Edema|Hernia,0,P00567,80,M,AP,2556,2476,0.143,0.143
+dummy_image_00568.png,No Finding,0,P00568,38,M,AP,2322,2195,0.143,0.143
+dummy_image_00569.png,Fibrosis|Cardiomegaly|Hernia,0,P00569,87,F,AP,2073,1187,0.143,0.143
+dummy_image_00570.png,Pleural_Thickening|Emphysema,0,P00570,85,M,AP,1416,2005,0.143,0.143
+dummy_image_00571.png,Pneumonia|Nodule|Cardiomegaly,0,P00571,72,F,PA,2895,1769,0.143,0.143
+dummy_image_00572.png,Effusion,0,P00572,74,M,PA,1617,1579,0.143,0.143
+dummy_image_00573.png,Atelectasis|Fibrosis,0,P00573,73,M,PA,2621,2692,0.143,0.143
+dummy_image_00574.png,Edema|Pneumonia,0,P00574,85,F,PA,1555,1719,0.143,0.143
+dummy_image_00575.png,No Finding,0,P00575,86,M,PA,1671,2348,0.143,0.143
+dummy_image_00576.png,No Finding,0,P00576,77,F,PA,1933,2118,0.143,0.143
+dummy_image_00577.png,Mass|Infiltration|Consolidation,0,P00577,85,M,AP,2387,2589,0.143,0.143
+dummy_image_00578.png,Hernia|Pleural_Thickening|Mass,0,P00578,26,M,AP,1415,2431,0.143,0.143
+dummy_image_00579.png,Fibrosis|Pneumothorax|Emphysema,0,P00579,33,F,PA,1207,2009,0.143,0.143
+dummy_image_00580.png,No Finding,0,P00580,24,M,PA,2038,2807,0.143,0.143
+dummy_image_00581.png,Cardiomegaly|Pleural_Thickening|Infiltration,0,P00581,23,F,PA,2284,2620,0.143,0.143
+dummy_image_00582.png,Pleural_Thickening|Hernia|Pneumothorax,0,P00582,47,F,PA,2998,1569,0.143,0.143
+dummy_image_00583.png,No Finding,0,P00583,56,F,PA,1821,1822,0.143,0.143
+dummy_image_00584.png,No Finding,0,P00584,65,F,PA,2841,1772,0.143,0.143
+dummy_image_00585.png,No Finding,0,P00585,77,M,PA,1942,1952,0.143,0.143
+dummy_image_00586.png,No Finding,0,P00586,39,F,AP,2366,1426,0.143,0.143
+dummy_image_00587.png,Atelectasis|Infiltration,0,P00587,52,M,PA,2037,1563,0.143,0.143
+dummy_image_00588.png,Effusion|Fibrosis|Consolidation,0,P00588,38,F,AP,2488,1480,0.143,0.143
+dummy_image_00589.png,Emphysema,0,P00589,71,F,PA,2692,1578,0.143,0.143
+dummy_image_00590.png,Pleural_Thickening|Mass|Effusion,0,P00590,36,M,PA,2096,1905,0.143,0.143
+dummy_image_00591.png,No Finding,0,P00591,29,M,PA,2305,1754,0.143,0.143
+dummy_image_00592.png,Pneumonia|Hernia|Consolidation,0,P00592,50,F,AP,2696,1386,0.143,0.143
+dummy_image_00593.png,No Finding,0,P00593,42,F,PA,1442,1346,0.143,0.143
+dummy_image_00594.png,No Finding,0,P00594,25,M,PA,2119,2586,0.143,0.143
+dummy_image_00595.png,Hernia|Consolidation,0,P00595,26,F,PA,2816,1273,0.143,0.143
+dummy_image_00596.png,No Finding,0,P00596,46,F,PA,1234,1647,0.143,0.143
+dummy_image_00597.png,No Finding,0,P00597,31,M,PA,2113,2340,0.143,0.143
+dummy_image_00598.png,Pneumothorax|Hernia|Pneumonia,0,P00598,61,F,AP,2957,1413,0.143,0.143
+dummy_image_00599.png,Consolidation,0,P00599,76,F,AP,1146,2286,0.143,0.143
+dummy_image_00600.png,No Finding,0,P00600,57,F,PA,1481,2705,0.143,0.143
+dummy_image_00601.png,Hernia|Fibrosis,0,P00601,87,M,AP,1989,1559,0.143,0.143
+dummy_image_00602.png,Pleural_Thickening|Pneumothorax,0,P00602,67,F,PA,2624,1888,0.143,0.143
+dummy_image_00603.png,Infiltration,0,P00603,84,F,AP,2397,1486,0.143,0.143
+dummy_image_00604.png,No Finding,0,P00604,27,F,PA,2433,1647,0.143,0.143
+dummy_image_00605.png,Edema|Mass,0,P00605,36,M,AP,1852,1987,0.143,0.143
+dummy_image_00606.png,No Finding,0,P00606,51,F,PA,1715,2385,0.143,0.143
+dummy_image_00607.png,Pneumonia,0,P00607,74,M,PA,1409,2777,0.143,0.143
+dummy_image_00608.png,Mass,0,P00608,89,F,AP,2201,2902,0.143,0.143
+dummy_image_00609.png,Mass,0,P00609,23,M,AP,1418,2674,0.143,0.143
+dummy_image_00610.png,No Finding,0,P00610,88,F,AP,1378,1358,0.143,0.143
+dummy_image_00611.png,Emphysema,0,P00611,77,F,PA,1919,2007,0.143,0.143
+dummy_image_00612.png,Consolidation|Edema,0,P00612,22,M,AP,1724,2299,0.143,0.143
+dummy_image_00613.png,No Finding,0,P00613,70,M,AP,2909,2350,0.143,0.143
+dummy_image_00614.png,No Finding,0,P00614,80,F,AP,1652,2860,0.143,0.143
+dummy_image_00615.png,No Finding,0,P00615,74,M,PA,1699,2223,0.143,0.143
+dummy_image_00616.png,Cardiomegaly|Mass|Consolidation,0,P00616,50,M,PA,1401,2510,0.143,0.143
+dummy_image_00617.png,Cardiomegaly,0,P00617,69,M,PA,1852,2151,0.143,0.143
+dummy_image_00618.png,Emphysema|Pneumonia|Pleural_Thickening,0,P00618,24,M,AP,1451,1184,0.143,0.143
+dummy_image_00619.png,Mass|Pneumonia,0,P00619,78,M,AP,1097,1194,0.143,0.143
+dummy_image_00620.png,Nodule|Cardiomegaly,0,P00620,47,F,PA,2669,2576,0.143,0.143
+dummy_image_00621.png,Mass,0,P00621,57,M,PA,1286,2515,0.143,0.143
+dummy_image_00622.png,No Finding,0,P00622,52,M,PA,2028,1936,0.143,0.143
+dummy_image_00623.png,Cardiomegaly|Hernia,0,P00623,50,F,AP,2546,2832,0.143,0.143
+dummy_image_00624.png,Atelectasis,0,P00624,20,M,AP,1946,2785,0.143,0.143
+dummy_image_00625.png,Infiltration|Emphysema|Edema,0,P00625,44,M,AP,1262,1809,0.143,0.143
+dummy_image_00626.png,Nodule|Infiltration|Pneumonia,0,P00626,28,M,PA,1197,2976,0.143,0.143
+dummy_image_00627.png,No Finding,0,P00627,24,M,AP,1098,1573,0.143,0.143
+dummy_image_00628.png,No Finding,0,P00628,29,M,PA,2479,2680,0.143,0.143
+dummy_image_00629.png,No Finding,0,P00629,87,F,AP,1643,2099,0.143,0.143
+dummy_image_00630.png,Effusion,0,P00630,63,F,AP,1360,1042,0.143,0.143
+dummy_image_00631.png,Pneumothorax|Pleural_Thickening|Infiltration,0,P00631,76,M,PA,1502,2593,0.143,0.143
+dummy_image_00632.png,Pneumonia,0,P00632,88,M,AP,2532,1443,0.143,0.143
+dummy_image_00633.png,Hernia,0,P00633,53,F,PA,1958,1889,0.143,0.143
+dummy_image_00634.png,No Finding,0,P00634,45,M,AP,1153,1872,0.143,0.143
+dummy_image_00635.png,Consolidation,0,P00635,70,M,AP,1434,2754,0.143,0.143
+dummy_image_00636.png,Pleural_Thickening,0,P00636,32,F,PA,1829,1841,0.143,0.143
+dummy_image_00637.png,Infiltration,0,P00637,48,F,PA,2512,2128,0.143,0.143
+dummy_image_00638.png,No Finding,0,P00638,33,F,AP,1399,2169,0.143,0.143
+dummy_image_00639.png,Emphysema,0,P00639,62,F,PA,1199,1473,0.143,0.143
+dummy_image_00640.png,Cardiomegaly,0,P00640,21,M,PA,2336,2864,0.143,0.143
+dummy_image_00641.png,Mass,0,P00641,77,F,AP,1142,1328,0.143,0.143
+dummy_image_00642.png,Mass,0,P00642,43,M,AP,1843,2298,0.143,0.143
+dummy_image_00643.png,Cardiomegaly|Infiltration|Atelectasis,0,P00643,53,M,AP,2123,2089,0.143,0.143
+dummy_image_00644.png,Pneumonia,0,P00644,78,M,PA,2267,2414,0.143,0.143
+dummy_image_00645.png,Mass|Edema,0,P00645,27,M,PA,1437,1994,0.143,0.143
+dummy_image_00646.png,Infiltration|Effusion,0,P00646,76,M,PA,2463,1165,0.143,0.143
+dummy_image_00647.png,Infiltration|Edema,0,P00647,81,M,AP,2175,1176,0.143,0.143
+dummy_image_00648.png,Cardiomegaly,0,P00648,74,M,AP,1883,2269,0.143,0.143
+dummy_image_00649.png,Nodule,0,P00649,88,F,PA,2181,1055,0.143,0.143
+dummy_image_00650.png,Effusion|Pleural_Thickening|Nodule,0,P00650,72,F,AP,1183,2930,0.143,0.143
+dummy_image_00651.png,Edema|Atelectasis|Hernia,0,P00651,84,F,AP,1575,2108,0.143,0.143
+dummy_image_00652.png,Infiltration|Effusion,0,P00652,75,M,PA,2911,1678,0.143,0.143
+dummy_image_00653.png,Nodule|Pleural_Thickening,0,P00653,85,M,PA,2218,2594,0.143,0.143
+dummy_image_00654.png,No Finding,0,P00654,44,M,PA,2667,1778,0.143,0.143
+dummy_image_00655.png,Emphysema|Consolidation,0,P00655,87,M,AP,1784,1595,0.143,0.143
+dummy_image_00656.png,No Finding,0,P00656,71,F,AP,2202,2224,0.143,0.143
+dummy_image_00657.png,Pneumonia|Atelectasis|Hernia,0,P00657,36,M,AP,2158,1049,0.143,0.143
+dummy_image_00658.png,Fibrosis,0,P00658,48,M,AP,2753,2686,0.143,0.143
+dummy_image_00659.png,Effusion|Hernia|Edema,0,P00659,77,M,AP,2610,1919,0.143,0.143
+dummy_image_00660.png,Infiltration|Effusion,0,P00660,74,F,AP,1870,2541,0.143,0.143
+dummy_image_00661.png,No Finding,0,P00661,71,M,PA,2229,1646,0.143,0.143
+dummy_image_00662.png,No Finding,0,P00662,28,F,AP,1602,2776,0.143,0.143
+dummy_image_00663.png,Edema|Hernia,0,P00663,39,M,AP,1859,1482,0.143,0.143
+dummy_image_00664.png,No Finding,0,P00664,27,F,PA,1479,1065,0.143,0.143
+dummy_image_00665.png,Nodule|Cardiomegaly,0,P00665,61,M,AP,2874,2616,0.143,0.143
+dummy_image_00666.png,No Finding,0,P00666,32,M,PA,1187,2086,0.143,0.143
+dummy_image_00667.png,No Finding,0,P00667,34,M,AP,2321,2843,0.143,0.143
+dummy_image_00668.png,Fibrosis|Pleural_Thickening|Nodule,0,P00668,55,M,PA,1863,2699,0.143,0.143
+dummy_image_00669.png,Nodule|Edema|Pleural_Thickening,0,P00669,53,M,AP,1345,1678,0.143,0.143
+dummy_image_00670.png,Cardiomegaly,0,P00670,24,M,PA,1076,2586,0.143,0.143
+dummy_image_00671.png,No Finding,0,P00671,67,M,AP,1096,2365,0.143,0.143
+dummy_image_00672.png,Atelectasis|Infiltration|Mass,0,P00672,80,F,PA,1966,2667,0.143,0.143
+dummy_image_00673.png,No Finding,0,P00673,47,M,PA,2661,2969,0.143,0.143
+dummy_image_00674.png,No Finding,0,P00674,55,F,AP,1024,1371,0.143,0.143
+dummy_image_00675.png,No Finding,0,P00675,40,F,AP,1968,1602,0.143,0.143
+dummy_image_00676.png,Mass|Emphysema,0,P00676,49,M,AP,2725,1304,0.143,0.143
+dummy_image_00677.png,No Finding,0,P00677,84,M,PA,1431,2830,0.143,0.143
+dummy_image_00678.png,Cardiomegaly,0,P00678,50,F,PA,2094,1594,0.143,0.143
+dummy_image_00679.png,Hernia|Fibrosis|Atelectasis,0,P00679,56,F,AP,2425,2065,0.143,0.143
+dummy_image_00680.png,Effusion|Mass,0,P00680,24,F,PA,2363,1648,0.143,0.143
+dummy_image_00681.png,No Finding,0,P00681,36,F,PA,1786,2823,0.143,0.143
+dummy_image_00682.png,Pleural_Thickening,0,P00682,71,F,AP,2001,2470,0.143,0.143
+dummy_image_00683.png,No Finding,0,P00683,82,M,AP,2589,1582,0.143,0.143
+dummy_image_00684.png,Cardiomegaly|Pneumothorax,0,P00684,24,F,AP,1708,1086,0.143,0.143
+dummy_image_00685.png,No Finding,0,P00685,20,M,PA,1967,2610,0.143,0.143
+dummy_image_00686.png,Hernia|Cardiomegaly,0,P00686,57,F,PA,1344,2588,0.143,0.143
+dummy_image_00687.png,No Finding,0,P00687,47,F,AP,2121,1794,0.143,0.143
+dummy_image_00688.png,Pneumonia|Effusion,0,P00688,62,F,AP,2425,1936,0.143,0.143
+dummy_image_00689.png,Mass|Edema,0,P00689,84,M,PA,2371,1685,0.143,0.143
+dummy_image_00690.png,No Finding,0,P00690,33,F,PA,1652,1839,0.143,0.143
+dummy_image_00691.png,Pleural_Thickening|Pneumothorax|Mass,0,P00691,24,F,AP,1355,2485,0.143,0.143
+dummy_image_00692.png,Pneumonia|Infiltration|Fibrosis,0,P00692,76,F,AP,1923,1887,0.143,0.143
+dummy_image_00693.png,Emphysema|Hernia|Edema,0,P00693,28,M,AP,2984,2966,0.143,0.143
+dummy_image_00694.png,Fibrosis,0,P00694,59,M,PA,1473,1362,0.143,0.143
+dummy_image_00695.png,No Finding,0,P00695,38,M,AP,1394,1808,0.143,0.143
+dummy_image_00696.png,No Finding,0,P00696,30,F,AP,2123,2327,0.143,0.143
+dummy_image_00697.png,Consolidation,0,P00697,23,F,PA,2021,1936,0.143,0.143
+dummy_image_00698.png,No Finding,0,P00698,53,M,AP,2158,2549,0.143,0.143
+dummy_image_00699.png,No Finding,0,P00699,72,F,PA,2289,2899,0.143,0.143
+dummy_image_00700.png,No Finding,0,P00700,23,M,AP,2557,2735,0.143,0.143
+dummy_image_00701.png,Consolidation|Pneumothorax|Cardiomegaly,0,P00701,47,M,PA,1183,2458,0.143,0.143
+dummy_image_00702.png,No Finding,0,P00702,71,M,PA,2796,2435,0.143,0.143
+dummy_image_00703.png,Pneumothorax|Pleural_Thickening|Cardiomegaly,0,P00703,34,F,AP,2531,1822,0.143,0.143
+dummy_image_00704.png,Nodule,0,P00704,61,F,AP,1609,2751,0.143,0.143
+dummy_image_00705.png,Mass|Pleural_Thickening|Cardiomegaly,0,P00705,53,F,PA,2992,1090,0.143,0.143
+dummy_image_00706.png,Emphysema|Cardiomegaly|Consolidation,0,P00706,63,M,PA,2009,2958,0.143,0.143
+dummy_image_00707.png,No Finding,0,P00707,40,F,PA,1301,1171,0.143,0.143
+dummy_image_00708.png,Infiltration,0,P00708,49,M,PA,1970,2788,0.143,0.143
+dummy_image_00709.png,No Finding,0,P00709,41,F,AP,2833,1686,0.143,0.143
+dummy_image_00710.png,Infiltration|Cardiomegaly,0,P00710,42,F,AP,1539,1233,0.143,0.143
+dummy_image_00711.png,No Finding,0,P00711,72,M,PA,1744,2295,0.143,0.143
+dummy_image_00712.png,Emphysema,0,P00712,77,M,PA,1976,2731,0.143,0.143
+dummy_image_00713.png,Atelectasis|Fibrosis|Consolidation,0,P00713,76,M,PA,2030,2803,0.143,0.143
+dummy_image_00714.png,No Finding,0,P00714,58,F,PA,2171,1431,0.143,0.143
+dummy_image_00715.png,Infiltration|Effusion|Pneumonia,0,P00715,57,M,AP,1964,1600,0.143,0.143
+dummy_image_00716.png,No Finding,0,P00716,59,M,AP,1092,2537,0.143,0.143
+dummy_image_00717.png,No Finding,0,P00717,53,F,AP,1789,1046,0.143,0.143
+dummy_image_00718.png,Emphysema,0,P00718,86,M,PA,2637,1435,0.143,0.143
+dummy_image_00719.png,Mass,0,P00719,41,M,PA,1144,2523,0.143,0.143
+dummy_image_00720.png,No Finding,0,P00720,56,M,PA,2105,2866,0.143,0.143
+dummy_image_00721.png,Fibrosis|Emphysema|Mass,0,P00721,33,F,AP,2495,1426,0.143,0.143
+dummy_image_00722.png,Atelectasis,0,P00722,64,M,AP,1839,2059,0.143,0.143
+dummy_image_00723.png,Consolidation|Atelectasis|Pleural_Thickening,0,P00723,57,M,AP,2358,1866,0.143,0.143
+dummy_image_00724.png,Edema,0,P00724,39,M,PA,1441,2151,0.143,0.143
+dummy_image_00725.png,Pleural_Thickening|Edema,0,P00725,54,F,PA,2574,1510,0.143,0.143
+dummy_image_00726.png,No Finding,0,P00726,86,F,AP,2097,2625,0.143,0.143
+dummy_image_00727.png,No Finding,0,P00727,29,M,PA,2351,1676,0.143,0.143
+dummy_image_00728.png,Mass|Pneumonia,0,P00728,81,M,AP,1776,2111,0.143,0.143
+dummy_image_00729.png,Cardiomegaly|Pneumonia|Effusion,0,P00729,53,F,AP,2703,1760,0.143,0.143
+dummy_image_00730.png,Atelectasis,0,P00730,55,F,AP,1318,2925,0.143,0.143
+dummy_image_00731.png,No Finding,0,P00731,89,F,PA,1282,2069,0.143,0.143
+dummy_image_00732.png,Pleural_Thickening,0,P00732,88,M,PA,1074,2921,0.143,0.143
+dummy_image_00733.png,Consolidation|Nodule|Effusion,0,P00733,21,M,PA,1994,1626,0.143,0.143
+dummy_image_00734.png,Effusion|Cardiomegaly,0,P00734,57,F,PA,2260,2986,0.143,0.143
+dummy_image_00735.png,Emphysema|Consolidation,0,P00735,72,M,AP,1498,1130,0.143,0.143
+dummy_image_00736.png,No Finding,0,P00736,72,M,PA,2130,2129,0.143,0.143
+dummy_image_00737.png,No Finding,0,P00737,71,F,AP,1689,1182,0.143,0.143
+dummy_image_00738.png,No Finding,0,P00738,32,M,PA,1419,1155,0.143,0.143
+dummy_image_00739.png,No Finding,0,P00739,37,M,PA,1096,2233,0.143,0.143
+dummy_image_00740.png,No Finding,0,P00740,40,F,PA,2383,2532,0.143,0.143
+dummy_image_00741.png,Consolidation,0,P00741,55,M,PA,1578,2443,0.143,0.143
+dummy_image_00742.png,No Finding,0,P00742,89,M,AP,1289,2679,0.143,0.143
+dummy_image_00743.png,Mass,0,P00743,47,M,PA,1119,2722,0.143,0.143
+dummy_image_00744.png,No Finding,0,P00744,48,F,PA,2022,2928,0.143,0.143
+dummy_image_00745.png,Consolidation,0,P00745,41,F,AP,2190,2783,0.143,0.143
+dummy_image_00746.png,No Finding,0,P00746,77,F,AP,1871,1126,0.143,0.143
+dummy_image_00747.png,No Finding,0,P00747,34,M,PA,1467,2347,0.143,0.143
+dummy_image_00748.png,No Finding,0,P00748,20,M,AP,2669,2955,0.143,0.143
+dummy_image_00749.png,Consolidation|Edema,0,P00749,78,M,PA,2570,1646,0.143,0.143
+dummy_image_00750.png,No Finding,0,P00750,70,M,AP,1941,1782,0.143,0.143
+dummy_image_00751.png,No Finding,0,P00751,33,F,AP,1479,2963,0.143,0.143
+dummy_image_00752.png,Pneumothorax|Infiltration,0,P00752,75,M,PA,1229,2513,0.143,0.143
+dummy_image_00753.png,No Finding,0,P00753,54,F,AP,2976,2490,0.143,0.143
+dummy_image_00754.png,Cardiomegaly,0,P00754,49,F,AP,1480,2228,0.143,0.143
+dummy_image_00755.png,No Finding,0,P00755,44,F,PA,1367,2379,0.143,0.143
+dummy_image_00756.png,No Finding,0,P00756,53,F,AP,2254,2482,0.143,0.143
+dummy_image_00757.png,Mass|Emphysema|Pleural_Thickening,0,P00757,69,F,PA,2464,1054,0.143,0.143
+dummy_image_00758.png,Pneumothorax|Consolidation,0,P00758,46,F,PA,1830,2496,0.143,0.143
+dummy_image_00759.png,Hernia|Pneumonia,0,P00759,57,M,PA,2356,1123,0.143,0.143
+dummy_image_00760.png,Edema|Cardiomegaly|Pleural_Thickening,0,P00760,32,M,AP,1396,1430,0.143,0.143
+dummy_image_00761.png,No Finding,0,P00761,51,M,AP,1222,2995,0.143,0.143
+dummy_image_00762.png,Edema|Hernia|Pneumonia,0,P00762,31,M,AP,2422,2815,0.143,0.143
+dummy_image_00763.png,Pneumothorax|Emphysema|Hernia,0,P00763,57,M,AP,2460,2976,0.143,0.143
+dummy_image_00764.png,Fibrosis|Effusion,0,P00764,73,F,AP,1649,2823,0.143,0.143
+dummy_image_00765.png,No Finding,0,P00765,69,F,AP,1035,1551,0.143,0.143
+dummy_image_00766.png,Effusion|Emphysema,0,P00766,36,M,PA,2676,2190,0.143,0.143
+dummy_image_00767.png,No Finding,0,P00767,88,M,AP,2629,2243,0.143,0.143
+dummy_image_00768.png,Pneumonia,0,P00768,65,M,AP,1171,1118,0.143,0.143
+dummy_image_00769.png,Edema,0,P00769,63,M,PA,2849,2891,0.143,0.143
+dummy_image_00770.png,No Finding,0,P00770,60,M,PA,1952,1699,0.143,0.143
+dummy_image_00771.png,No Finding,0,P00771,52,F,AP,2157,1585,0.143,0.143
+dummy_image_00772.png,No Finding,0,P00772,68,M,AP,1252,2864,0.143,0.143
+dummy_image_00773.png,Effusion|Mass|Pneumothorax,0,P00773,72,F,PA,2200,1586,0.143,0.143
+dummy_image_00774.png,Cardiomegaly|Mass|Effusion,0,P00774,80,M,PA,2785,2107,0.143,0.143
+dummy_image_00775.png,Pneumothorax|Emphysema,0,P00775,79,F,PA,2029,1470,0.143,0.143
+dummy_image_00776.png,No Finding,0,P00776,60,M,AP,1540,1509,0.143,0.143
+dummy_image_00777.png,Pleural_Thickening|Atelectasis|Fibrosis,0,P00777,20,M,PA,1709,1978,0.143,0.143
+dummy_image_00778.png,Edema,0,P00778,47,F,PA,1905,1402,0.143,0.143
+dummy_image_00779.png,Cardiomegaly,0,P00779,81,F,PA,2266,2618,0.143,0.143
+dummy_image_00780.png,No Finding,0,P00780,56,F,AP,2902,1094,0.143,0.143
+dummy_image_00781.png,Consolidation|Pneumonia|Edema,0,P00781,26,M,PA,1479,1387,0.143,0.143
+dummy_image_00782.png,Consolidation,0,P00782,30,F,AP,2649,1025,0.143,0.143
+dummy_image_00783.png,Pneumonia|Atelectasis,0,P00783,40,F,AP,2062,2139,0.143,0.143
+dummy_image_00784.png,Infiltration|Cardiomegaly,0,P00784,43,F,PA,1040,1294,0.143,0.143
+dummy_image_00785.png,Consolidation|Pneumonia|Nodule,0,P00785,82,M,PA,1324,1506,0.143,0.143
+dummy_image_00786.png,No Finding,0,P00786,51,F,AP,2036,1054,0.143,0.143
+dummy_image_00787.png,Nodule|Edema,0,P00787,45,M,PA,1798,2941,0.143,0.143
+dummy_image_00788.png,No Finding,0,P00788,37,F,AP,1878,1896,0.143,0.143
+dummy_image_00789.png,No Finding,0,P00789,47,F,AP,2571,1324,0.143,0.143
+dummy_image_00790.png,Edema|Consolidation|Pneumothorax,0,P00790,45,F,AP,1697,2400,0.143,0.143
+dummy_image_00791.png,Infiltration|Hernia,0,P00791,68,F,PA,2121,1350,0.143,0.143
+dummy_image_00792.png,Mass,0,P00792,65,M,AP,1216,2850,0.143,0.143
+dummy_image_00793.png,Emphysema|Pneumothorax|Pleural_Thickening,0,P00793,40,M,PA,1464,1622,0.143,0.143
+dummy_image_00794.png,Cardiomegaly|Pleural_Thickening|Hernia,0,P00794,31,M,PA,1575,1704,0.143,0.143
+dummy_image_00795.png,Infiltration|Pleural_Thickening|Edema,0,P00795,77,F,AP,2532,2784,0.143,0.143
+dummy_image_00796.png,No Finding,0,P00796,87,F,PA,2228,1640,0.143,0.143
+dummy_image_00797.png,Pneumonia|Mass|Edema,0,P00797,28,F,PA,1602,1890,0.143,0.143
+dummy_image_00798.png,Atelectasis|Effusion|Mass,0,P00798,88,M,AP,1058,1167,0.143,0.143
+dummy_image_00799.png,No Finding,0,P00799,20,F,AP,2004,1217,0.143,0.143
+dummy_image_00800.png,Pleural_Thickening,0,P00800,54,F,PA,2020,1826,0.143,0.143
+dummy_image_00801.png,No Finding,0,P00801,22,M,PA,2055,2435,0.143,0.143
+dummy_image_00802.png,Mass|Infiltration,0,P00802,67,M,PA,2238,1293,0.143,0.143
+dummy_image_00803.png,Hernia|Effusion,0,P00803,38,F,AP,2281,2148,0.143,0.143
+dummy_image_00804.png,Pneumonia|Cardiomegaly|Nodule,0,P00804,31,F,PA,2091,1639,0.143,0.143
+dummy_image_00805.png,No Finding,0,P00805,83,M,AP,1229,2429,0.143,0.143
+dummy_image_00806.png,No Finding,0,P00806,89,M,AP,2028,2886,0.143,0.143
+dummy_image_00807.png,Nodule|Fibrosis|Edema,0,P00807,79,M,AP,2200,1999,0.143,0.143
+dummy_image_00808.png,No Finding,0,P00808,80,M,PA,2802,2517,0.143,0.143
+dummy_image_00809.png,No Finding,0,P00809,26,F,AP,1156,2177,0.143,0.143
+dummy_image_00810.png,Infiltration|Atelectasis,0,P00810,35,F,PA,1068,2668,0.143,0.143
+dummy_image_00811.png,Pleural_Thickening|Emphysema,0,P00811,59,M,AP,1502,2163,0.143,0.143
+dummy_image_00812.png,Nodule|Pleural_Thickening|Pneumothorax,0,P00812,46,M,AP,2956,1459,0.143,0.143
+dummy_image_00813.png,No Finding,0,P00813,26,M,PA,2859,2972,0.143,0.143
+dummy_image_00814.png,Edema|Hernia,0,P00814,80,F,PA,1511,2646,0.143,0.143
+dummy_image_00815.png,No Finding,0,P00815,55,F,PA,2105,1524,0.143,0.143
+dummy_image_00816.png,No Finding,0,P00816,50,F,PA,1195,1565,0.143,0.143
+dummy_image_00817.png,Consolidation|Cardiomegaly,0,P00817,62,M,AP,1560,2135,0.143,0.143
+dummy_image_00818.png,No Finding,0,P00818,80,M,AP,2260,2678,0.143,0.143
+dummy_image_00819.png,No Finding,0,P00819,47,F,AP,2237,1799,0.143,0.143
+dummy_image_00820.png,No Finding,0,P00820,31,M,AP,1971,2890,0.143,0.143
+dummy_image_00821.png,Pneumonia|Mass|Cardiomegaly,0,P00821,82,F,AP,2313,2988,0.143,0.143
+dummy_image_00822.png,No Finding,0,P00822,47,F,PA,2722,2429,0.143,0.143
+dummy_image_00823.png,No Finding,0,P00823,47,F,AP,2224,1130,0.143,0.143
+dummy_image_00824.png,Effusion|Nodule|Consolidation,0,P00824,46,M,PA,2543,1312,0.143,0.143
+dummy_image_00825.png,Pleural_Thickening|Hernia|Emphysema,0,P00825,26,M,AP,1219,2235,0.143,0.143
+dummy_image_00826.png,No Finding,0,P00826,69,F,AP,1723,2258,0.143,0.143
+dummy_image_00827.png,Pleural_Thickening,0,P00827,45,M,AP,1780,1588,0.143,0.143
+dummy_image_00828.png,No Finding,0,P00828,78,F,AP,1093,2546,0.143,0.143
+dummy_image_00829.png,Atelectasis,0,P00829,52,F,AP,2980,2741,0.143,0.143
+dummy_image_00830.png,No Finding,0,P00830,86,M,PA,1364,1025,0.143,0.143
+dummy_image_00831.png,Pneumonia|Nodule|Hernia,0,P00831,76,F,PA,1612,1764,0.143,0.143
+dummy_image_00832.png,Edema,0,P00832,21,F,PA,1288,2430,0.143,0.143
+dummy_image_00833.png,No Finding,0,P00833,84,M,PA,1475,1705,0.143,0.143
+dummy_image_00834.png,Cardiomegaly,0,P00834,64,M,AP,1713,2003,0.143,0.143
+dummy_image_00835.png,Mass|Emphysema|Fibrosis,0,P00835,53,M,PA,2941,2688,0.143,0.143
+dummy_image_00836.png,No Finding,0,P00836,49,F,AP,2154,1294,0.143,0.143
+dummy_image_00837.png,Consolidation|Pneumonia|Hernia,0,P00837,37,M,PA,1029,1125,0.143,0.143
+dummy_image_00838.png,No Finding,0,P00838,51,M,AP,2379,2327,0.143,0.143
+dummy_image_00839.png,Pneumothorax|Infiltration,0,P00839,42,F,PA,2190,1720,0.143,0.143
+dummy_image_00840.png,Fibrosis|Consolidation,0,P00840,36,M,AP,2995,1928,0.143,0.143
+dummy_image_00841.png,Cardiomegaly,0,P00841,37,M,PA,1168,2404,0.143,0.143
+dummy_image_00842.png,No Finding,0,P00842,33,M,PA,2980,1122,0.143,0.143
+dummy_image_00843.png,Nodule|Atelectasis,0,P00843,76,F,AP,1609,1569,0.143,0.143
+dummy_image_00844.png,Pneumonia|Cardiomegaly,0,P00844,84,M,AP,2019,1644,0.143,0.143
+dummy_image_00845.png,Emphysema|Fibrosis,0,P00845,71,M,PA,2344,2539,0.143,0.143
+dummy_image_00846.png,No Finding,0,P00846,89,M,PA,2523,2602,0.143,0.143
+dummy_image_00847.png,Edema|Emphysema|Consolidation,0,P00847,84,F,AP,2469,1228,0.143,0.143
+dummy_image_00848.png,No Finding,0,P00848,65,F,AP,2419,1995,0.143,0.143
+dummy_image_00849.png,No Finding,0,P00849,83,F,AP,1863,1440,0.143,0.143
+dummy_image_00850.png,No Finding,0,P00850,20,M,AP,1464,2954,0.143,0.143
+dummy_image_00851.png,Fibrosis|Cardiomegaly,0,P00851,72,F,PA,1290,2999,0.143,0.143
+dummy_image_00852.png,No Finding,0,P00852,41,F,PA,1490,2169,0.143,0.143
+dummy_image_00853.png,Pneumonia|Cardiomegaly,0,P00853,53,F,PA,1552,1142,0.143,0.143
+dummy_image_00854.png,No Finding,0,P00854,34,M,AP,2179,2861,0.143,0.143
+dummy_image_00855.png,Mass,0,P00855,73,F,AP,1659,1065,0.143,0.143
+dummy_image_00856.png,Pneumonia,0,P00856,73,M,AP,1171,1058,0.143,0.143
+dummy_image_00857.png,Atelectasis|Edema|Effusion,0,P00857,46,M,AP,2234,2672,0.143,0.143
+dummy_image_00858.png,Pneumonia,0,P00858,55,M,PA,1175,2610,0.143,0.143
+dummy_image_00859.png,Emphysema|Pneumonia|Mass,0,P00859,71,F,PA,2663,2042,0.143,0.143
+dummy_image_00860.png,Atelectasis|Pneumothorax|Hernia,0,P00860,86,F,AP,2312,1122,0.143,0.143
+dummy_image_00861.png,No Finding,0,P00861,40,M,PA,2933,2527,0.143,0.143
+dummy_image_00862.png,Nodule|Consolidation|Effusion,0,P00862,48,M,PA,1616,1561,0.143,0.143
+dummy_image_00863.png,No Finding,0,P00863,34,M,PA,2637,2148,0.143,0.143
+dummy_image_00864.png,Emphysema|Edema|Mass,0,P00864,65,F,PA,1844,1530,0.143,0.143
+dummy_image_00865.png,No Finding,0,P00865,43,M,PA,2005,2174,0.143,0.143
+dummy_image_00866.png,Hernia|Pneumonia|Effusion,0,P00866,34,F,AP,1904,2961,0.143,0.143
+dummy_image_00867.png,Hernia,0,P00867,66,F,PA,1349,1649,0.143,0.143
+dummy_image_00868.png,Consolidation,0,P00868,45,F,PA,2240,1544,0.143,0.143
+dummy_image_00869.png,No Finding,0,P00869,47,M,AP,1717,1538,0.143,0.143
+dummy_image_00870.png,No Finding,0,P00870,78,M,PA,2146,1170,0.143,0.143
+dummy_image_00871.png,Nodule,0,P00871,87,M,PA,1966,2934,0.143,0.143
+dummy_image_00872.png,Pneumonia,0,P00872,69,M,AP,2403,2269,0.143,0.143
+dummy_image_00873.png,Pneumonia|Nodule|Fibrosis,0,P00873,69,F,PA,1054,2759,0.143,0.143
+dummy_image_00874.png,No Finding,0,P00874,44,F,AP,2331,1511,0.143,0.143
+dummy_image_00875.png,No Finding,0,P00875,73,F,PA,2146,2117,0.143,0.143
+dummy_image_00876.png,Infiltration|Pneumothorax|Nodule,0,P00876,84,M,AP,1381,2781,0.143,0.143
+dummy_image_00877.png,No Finding,0,P00877,57,F,PA,1158,1811,0.143,0.143
+dummy_image_00878.png,Fibrosis|Hernia|Cardiomegaly,0,P00878,37,M,AP,2149,2838,0.143,0.143
+dummy_image_00879.png,Pneumothorax,0,P00879,26,M,PA,1747,2037,0.143,0.143
+dummy_image_00880.png,Effusion|Consolidation,0,P00880,25,M,AP,2752,1478,0.143,0.143
+dummy_image_00881.png,Pleural_Thickening|Edema|Pneumonia,0,P00881,68,F,PA,1800,1508,0.143,0.143
+dummy_image_00882.png,Nodule|Pneumothorax|Pleural_Thickening,0,P00882,38,M,PA,1479,2719,0.143,0.143
+dummy_image_00883.png,Emphysema|Pleural_Thickening,0,P00883,28,M,PA,2182,1724,0.143,0.143
+dummy_image_00884.png,Edema|Fibrosis|Pleural_Thickening,0,P00884,41,M,PA,1374,2394,0.143,0.143
+dummy_image_00885.png,Mass|Pleural_Thickening|Pneumonia,0,P00885,79,M,AP,1151,1344,0.143,0.143
+dummy_image_00886.png,Edema,0,P00886,38,M,AP,2037,1341,0.143,0.143
+dummy_image_00887.png,No Finding,0,P00887,52,F,PA,2564,2671,0.143,0.143
+dummy_image_00888.png,Hernia|Emphysema,0,P00888,69,F,PA,2337,1416,0.143,0.143
+dummy_image_00889.png,No Finding,0,P00889,42,M,PA,1145,1280,0.143,0.143
+dummy_image_00890.png,Cardiomegaly|Mass,0,P00890,81,M,AP,2120,2741,0.143,0.143
+dummy_image_00891.png,Edema,0,P00891,48,F,PA,1294,2020,0.143,0.143
+dummy_image_00892.png,Pneumonia|Effusion|Hernia,0,P00892,42,F,PA,1416,1036,0.143,0.143
+dummy_image_00893.png,Atelectasis,0,P00893,27,F,PA,1693,1535,0.143,0.143
+dummy_image_00894.png,No Finding,0,P00894,70,F,AP,1389,2388,0.143,0.143
+dummy_image_00895.png,No Finding,0,P00895,76,F,AP,1579,1729,0.143,0.143
+dummy_image_00896.png,Emphysema|Pneumonia,0,P00896,80,M,AP,2986,2109,0.143,0.143
+dummy_image_00897.png,Consolidation|Pneumothorax,0,P00897,82,F,PA,2212,2741,0.143,0.143
+dummy_image_00898.png,Mass,0,P00898,34,M,PA,1412,2855,0.143,0.143
+dummy_image_00899.png,No Finding,0,P00899,33,M,PA,1059,1292,0.143,0.143
+dummy_image_00900.png,No Finding,0,P00900,62,M,PA,2860,2485,0.143,0.143
+dummy_image_00901.png,No Finding,0,P00901,55,F,PA,2653,1572,0.143,0.143
+dummy_image_00902.png,Cardiomegaly|Pleural_Thickening,0,P00902,20,F,PA,1708,1262,0.143,0.143
+dummy_image_00903.png,No Finding,0,P00903,69,M,PA,1303,1882,0.143,0.143
+dummy_image_00904.png,No Finding,0,P00904,46,F,AP,1555,1235,0.143,0.143
+dummy_image_00905.png,No Finding,0,P00905,73,F,AP,1437,1675,0.143,0.143
+dummy_image_00906.png,Pneumonia|Effusion,0,P00906,56,M,PA,2191,2271,0.143,0.143
+dummy_image_00907.png,No Finding,0,P00907,36,F,PA,2964,1180,0.143,0.143
+dummy_image_00908.png,Pleural_Thickening|Mass,0,P00908,87,M,AP,1519,1274,0.143,0.143
+dummy_image_00909.png,Emphysema|Mass,0,P00909,59,M,PA,1663,1761,0.143,0.143
+dummy_image_00910.png,Pleural_Thickening|Cardiomegaly|Emphysema,0,P00910,38,M,PA,1340,1717,0.143,0.143
+dummy_image_00911.png,Cardiomegaly|Edema,0,P00911,36,M,PA,1733,1221,0.143,0.143
+dummy_image_00912.png,Edema,0,P00912,73,M,PA,2993,2540,0.143,0.143
+dummy_image_00913.png,Edema|Pneumothorax|Cardiomegaly,0,P00913,23,F,AP,1434,1763,0.143,0.143
+dummy_image_00914.png,Cardiomegaly|Nodule,0,P00914,39,M,PA,1809,2155,0.143,0.143
+dummy_image_00915.png,Hernia,0,P00915,24,F,AP,1161,1348,0.143,0.143
+dummy_image_00916.png,Consolidation|Fibrosis|Pneumothorax,0,P00916,85,F,PA,2539,2149,0.143,0.143
+dummy_image_00917.png,Infiltration,0,P00917,63,F,AP,2299,1460,0.143,0.143
+dummy_image_00918.png,No Finding,0,P00918,38,M,PA,1468,1808,0.143,0.143
+dummy_image_00919.png,Pneumonia|Pleural_Thickening,0,P00919,53,M,AP,2827,1990,0.143,0.143
+dummy_image_00920.png,No Finding,0,P00920,52,F,AP,2957,2370,0.143,0.143
+dummy_image_00921.png,Effusion|Pleural_Thickening|Nodule,0,P00921,79,M,PA,2323,2958,0.143,0.143
+dummy_image_00922.png,No Finding,0,P00922,21,F,PA,2854,1518,0.143,0.143
+dummy_image_00923.png,No Finding,0,P00923,27,M,AP,2493,2178,0.143,0.143
+dummy_image_00924.png,Edema|Hernia,0,P00924,80,M,PA,1446,1382,0.143,0.143
+dummy_image_00925.png,No Finding,0,P00925,34,F,PA,1271,1360,0.143,0.143
+dummy_image_00926.png,Emphysema|Atelectasis,0,P00926,38,M,PA,2727,2445,0.143,0.143
+dummy_image_00927.png,Pneumothorax|Infiltration|Consolidation,0,P00927,24,F,PA,1281,1274,0.143,0.143
+dummy_image_00928.png,Cardiomegaly|Emphysema,0,P00928,57,F,PA,2104,2429,0.143,0.143
+dummy_image_00929.png,Hernia,0,P00929,64,F,AP,1093,1494,0.143,0.143
+dummy_image_00930.png,No Finding,0,P00930,21,F,PA,2302,1984,0.143,0.143
+dummy_image_00931.png,Emphysema|Effusion,0,P00931,82,F,PA,1251,2821,0.143,0.143
+dummy_image_00932.png,Edema,0,P00932,68,M,PA,2186,1907,0.143,0.143
+dummy_image_00933.png,Pneumonia,0,P00933,42,M,PA,1895,1504,0.143,0.143
+dummy_image_00934.png,Pneumothorax|Emphysema,0,P00934,77,M,AP,1881,1861,0.143,0.143
+dummy_image_00935.png,Infiltration|Pneumothorax,0,P00935,58,F,PA,1988,1139,0.143,0.143
+dummy_image_00936.png,Nodule|Atelectasis,0,P00936,64,F,PA,1499,1343,0.143,0.143
+dummy_image_00937.png,Pneumonia|Hernia|Fibrosis,0,P00937,58,F,AP,1184,1441,0.143,0.143
+dummy_image_00938.png,Mass|Infiltration,0,P00938,41,M,PA,1325,1563,0.143,0.143
+dummy_image_00939.png,No Finding,0,P00939,65,M,PA,2593,2021,0.143,0.143
+dummy_image_00940.png,Infiltration|Edema,0,P00940,46,M,AP,1265,1076,0.143,0.143
+dummy_image_00941.png,No Finding,0,P00941,61,F,PA,1124,1971,0.143,0.143
+dummy_image_00942.png,No Finding,0,P00942,33,M,AP,1809,1718,0.143,0.143
+dummy_image_00943.png,Cardiomegaly,0,P00943,63,M,PA,2035,1706,0.143,0.143
+dummy_image_00944.png,No Finding,0,P00944,57,M,PA,2590,1355,0.143,0.143
+dummy_image_00945.png,No Finding,0,P00945,53,F,PA,1262,2453,0.143,0.143
+dummy_image_00946.png,Pneumonia|Emphysema,0,P00946,82,M,AP,2182,1735,0.143,0.143
+dummy_image_00947.png,Infiltration|Atelectasis,0,P00947,83,M,AP,1264,1296,0.143,0.143
+dummy_image_00948.png,No Finding,0,P00948,62,M,AP,2400,2119,0.143,0.143
+dummy_image_00949.png,No Finding,0,P00949,70,F,PA,2425,1160,0.143,0.143
+dummy_image_00950.png,No Finding,0,P00950,78,F,AP,1465,2991,0.143,0.143
+dummy_image_00951.png,Hernia|Pneumothorax,0,P00951,80,M,AP,1509,1686,0.143,0.143
+dummy_image_00952.png,No Finding,0,P00952,79,M,AP,2618,2805,0.143,0.143
+dummy_image_00953.png,Emphysema,0,P00953,56,F,PA,2982,1130,0.143,0.143
+dummy_image_00954.png,No Finding,0,P00954,29,F,PA,1769,1571,0.143,0.143
+dummy_image_00955.png,Pneumonia|Cardiomegaly|Edema,0,P00955,79,F,PA,2089,1371,0.143,0.143
+dummy_image_00956.png,No Finding,0,P00956,88,F,PA,1342,1916,0.143,0.143
+dummy_image_00957.png,No Finding,0,P00957,86,F,PA,2525,1495,0.143,0.143
+dummy_image_00958.png,Mass|Pneumothorax,0,P00958,56,F,AP,1837,2565,0.143,0.143
+dummy_image_00959.png,Emphysema|Cardiomegaly|Hernia,0,P00959,86,M,PA,1596,1195,0.143,0.143
+dummy_image_00960.png,No Finding,0,P00960,80,F,AP,2253,2605,0.143,0.143
+dummy_image_00961.png,No Finding,0,P00961,48,M,PA,1336,1044,0.143,0.143
+dummy_image_00962.png,Pleural_Thickening|Edema,0,P00962,70,F,AP,2481,2102,0.143,0.143
+dummy_image_00963.png,No Finding,0,P00963,54,M,PA,2262,2308,0.143,0.143
+dummy_image_00964.png,Infiltration,0,P00964,85,M,AP,2834,1247,0.143,0.143
+dummy_image_00965.png,Emphysema|Mass,0,P00965,21,F,PA,1413,1967,0.143,0.143
+dummy_image_00966.png,Cardiomegaly|Fibrosis,0,P00966,74,F,PA,2534,1773,0.143,0.143
+dummy_image_00967.png,Edema|Mass,0,P00967,83,F,AP,1413,1615,0.143,0.143
+dummy_image_00968.png,Cardiomegaly|Consolidation,0,P00968,73,F,PA,1054,2930,0.143,0.143
+dummy_image_00969.png,Emphysema|Atelectasis|Mass,0,P00969,58,M,PA,1706,1231,0.143,0.143
+dummy_image_00970.png,No Finding,0,P00970,62,F,AP,1707,1655,0.143,0.143
+dummy_image_00971.png,Consolidation|Hernia,0,P00971,68,M,AP,2678,2958,0.143,0.143
+dummy_image_00972.png,Cardiomegaly|Infiltration,0,P00972,46,M,AP,2029,2699,0.143,0.143
+dummy_image_00973.png,Fibrosis|Pneumonia|Edema,0,P00973,54,F,PA,1505,1164,0.143,0.143
+dummy_image_00974.png,Pneumothorax|Emphysema,0,P00974,62,F,PA,1483,2271,0.143,0.143
+dummy_image_00975.png,Nodule|Infiltration,0,P00975,76,M,PA,2659,1234,0.143,0.143
+dummy_image_00976.png,No Finding,0,P00976,58,F,AP,2739,1855,0.143,0.143
+dummy_image_00977.png,No Finding,0,P00977,21,F,AP,1328,2253,0.143,0.143
+dummy_image_00978.png,No Finding,0,P00978,36,F,AP,1278,1679,0.143,0.143
+dummy_image_00979.png,No Finding,0,P00979,58,M,AP,1509,1807,0.143,0.143
+dummy_image_00980.png,No Finding,0,P00980,65,M,AP,2407,1037,0.143,0.143
+dummy_image_00981.png,Pneumothorax|Pneumonia|Emphysema,0,P00981,65,F,AP,2833,2653,0.143,0.143
+dummy_image_00982.png,Pneumonia|Infiltration|Mass,0,P00982,52,M,PA,2121,2931,0.143,0.143
+dummy_image_00983.png,Fibrosis,0,P00983,82,M,PA,1500,2038,0.143,0.143
+dummy_image_00984.png,Atelectasis|Pneumonia|Effusion,0,P00984,83,M,AP,1191,1808,0.143,0.143
+dummy_image_00985.png,Effusion|Mass|Pneumothorax,0,P00985,59,M,PA,2404,1796,0.143,0.143
+dummy_image_00986.png,Infiltration|Cardiomegaly|Atelectasis,0,P00986,75,F,AP,1517,2809,0.143,0.143
+dummy_image_00987.png,No Finding,0,P00987,49,M,AP,1750,1470,0.143,0.143
+dummy_image_00988.png,Pneumothorax|Emphysema|Edema,0,P00988,31,F,PA,2764,1947,0.143,0.143
+dummy_image_00989.png,Consolidation|Edema|Cardiomegaly,0,P00989,32,F,PA,2318,1057,0.143,0.143
+dummy_image_00990.png,Infiltration|Pleural_Thickening,0,P00990,37,M,PA,2898,1453,0.143,0.143
+dummy_image_00991.png,No Finding,0,P00991,29,M,PA,1838,1403,0.143,0.143
+dummy_image_00992.png,No Finding,0,P00992,30,M,AP,2338,2330,0.143,0.143
+dummy_image_00993.png,Atelectasis|Effusion,0,P00993,79,M,AP,2702,2157,0.143,0.143
+dummy_image_00994.png,No Finding,0,P00994,23,F,AP,2250,1853,0.143,0.143
+dummy_image_00995.png,Edema,0,P00995,46,F,AP,1292,1944,0.143,0.143
+dummy_image_00996.png,No Finding,0,P00996,65,M,PA,2446,1433,0.143,0.143
+dummy_image_00997.png,No Finding,0,P00997,26,F,PA,1681,2368,0.143,0.143
+dummy_image_00998.png,No Finding,0,P00998,64,F,PA,1907,2311,0.143,0.143
+dummy_image_00999.png,Fibrosis,0,P00999,63,M,PA,2199,2167,0.143,0.143
