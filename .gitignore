@@ -1,0 +1,28 @@
+
+# AI Models - Checkpoints and Data
+ai-models/models/checkpoints/*.pth
+ai-models/models/checkpoints/*.pt
+ai-models/models/checkpoints/*.ckpt
+ai-models/data/raw/
+ai-models/data/processed/
+*.pkl
+*.h5
+
+ai-models/**/__pycache__/
+ai-models/**/*.pyc
+
+# AI Models - Checkpoints and Data
+ai-models/models/checkpoints/*.pth
+ai-models/models/checkpoints/*.pt
+ai-models/models/checkpoints/*.ckpt
+ai-models/data/raw/
+ai-models/data/processed/
+*.pkl
+*.h5
+
+# Python cache
+ai-models/**/__pycache__/
+ai-models/**/*.pyc
+ai-models/models/checkpoints/*.pth
+ai-models/models/checkpoints/*.pt
+ai-models/data/raw/
